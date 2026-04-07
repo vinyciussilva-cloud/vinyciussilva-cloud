@@ -1,77 +1,123 @@
+<!-- HEADER ANIMADO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Vinycius+Lopes+Monteiro+da+Silva;Game+Developer+%7C+Digital+Artist;Criando+o+futuro+com+tecnologia+e+criatividade" />
+</p>
+
+---
+
 # 👨‍💻 Vinycius Lopes Monteiro da Silva
 
-✨ *Desenvolvedor em formação | Criativo Digital | Futuro profissional da tecnologia e arte*
+<p align="center">
+  🚀 Desenvolvedor em formação • 🎮 Game Dev • 🎨 Artista Digital
+</p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-Sou um profissional em formação com apenas **15 anos**, já certificado pela **SAGA**, uma das maiores escolas do Brasil na formação de talentos para o mercado de:
+Profissional em formação com **15 anos**, com certificação pela **SAGA**, referência nacional na formação de talentos em tecnologia e arte digital.
 
-🎮 Games  
-🎨 Arte Digital  
-🧠 Design  
-🎬 Animação  
-🧱 3D  
-💥 Efeitos Visuais  
+Atuo como freelancer desenvolvendo projetos que unem **programação + criatividade**, indo do conceito visual à implementação funcional.
 
-Desde cedo venho construindo uma base sólida que une **raciocínio lógico + criatividade**, desenvolvendo projetos que vão desde a **ideia visual até a implementação prática**.
+💡 Foco em inovação, aprendizado constante e criação de experiências digitais impactantes.
 
 ---
 
-## 🧠 Habilidades
+## 💼 Experiência
 
-💡 Lógica de Programação  
-🌐 Desenvolvimento Web  
-🎮 Desenvolvimento de Jogos  
-🎨 Pintura Digital  
-🖼️ Composição de Imagens  
-🎬 Animação & Efeitos Visuais  
-🎯 Design Digital  
+### 🎮 Game Developer & Digital Artist (Freelancer)  
+📍 São Paulo, Brasil  
+📅 jan/2022 – atualmente  
+
+✔ Desenvolvimento de jogos com **Unity** e **Blender**  
+✔ Criação de artes digitais com **Adobe Photoshop**  
+✔ Projetos completos: conceito → design → implementação  
+
+🏆 Certificado pela SAGA em **Pintura Digital e Composição de Imagens**
 
 ---
 
-## 🛠️ Ferramentas & Tecnologias
+## 🎓 Formação Acadêmica
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Photoshop" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Blender" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
-  <img align="center" alt="Unity" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="center" alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Excel" height="40" src="https://cdn-icons-png.flaticon.com/512/732/732220.png">
-</div>
+### 🏫 SENAI São Paulo  
+📍 Santo André – SP  
+📅 2026 – 2027  
+
+✔ Ensino médio com foco em tecnologia  
+✔ Projetos voltados à inovação e desenvolvimento digital  
+✔ Formação integrada com o **SESI 166**  
+
+📌 Áreas de destaque:
+- Desenvolvimento Web  
+- Sistemas Operacionais  
+- Trabalho em equipe e organização  
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,blender,unity,vscode,excel&theme=dark" />
+</p>
+
+---
+
+## 🏆 Badges Profissionais
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Game%20Dev-Unity-black?style=for-the-badge&logo=unity"/>
+  <img src="https://img.shields.io/badge/Digital%20Art-Photoshop-blue?style=for-the-badge&logo=adobephotoshop"/>
+  <img src="https://img.shields.io/badge/3D-Blender-orange?style=for-the-badge&logo=blender"/>
+  <img src="https://img.shields.io/badge/Code-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Data-Excel-green?style=for-the-badge&logo=microsoft-excel"/>
+</p>
 
 ---
 
 ## 🔥 Projetos em Destaque
 
-🚧 Em construção... (em breve grandes projetos aqui!)
+<p align="center">
+  🚧 Em construção... em breve projetos incríveis por aqui!
+</p>
 
 ---
 
 ## 📚 Certificações
 
-🏆 Certificado em **Pintura Digital e Composição de Imagens** – SAGA  
+🎓 **SAGA** — Pintura Digital & Composição de Imagens  
 
 ---
 
 ## 🎯 Objetivo
 
-Construir uma carreira sólida na área de tecnologia e arte digital, desenvolvendo projetos inovadores que unam **design, programação e criatividade**.
+Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com foco em desenvolvimento de jogos e experiências digitais inovadoras.
 
 ---
 
 ## 📫 Contato
 
-📧 Email: seuemail@email.com  
-📱 Instagram/LinkedIn: @seuusuario  
+<p align="center">
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-contato-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-perfil-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-@user-pink?style=for-the-badge&logo=instagram">
+  </a>
+</p>
 
 ---
 
-## ⚡ Curiosidade
+## ⚡ Frase
 
-> "Transformando ideias em realidade através da tecnologia e criatividade."
+<p align="center">
+  <i>"Transformando ideias em realidade através da tecnologia e criatividade."</i>
+</p>
 
 ---
 
-⭐ *Se curtir meu perfil, não esquece de dar uma estrela nos repositórios!*
+<p align="center">
+  ⭐ Se gostou do perfil, apoie com uma estrela nos repositórios!
+</p>
