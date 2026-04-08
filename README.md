@@ -1,4 +1,4 @@
-<!-- HEADER ANIMADO -->
+<!-- HEADER ANIMADO --> 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Vinycius+Lopes+Monteiro+da+Silva;Game+Developer+%7C+Digital+Artist;Criando+o+futuro+com+tecnologia+e+criatividade" />
 </p>
@@ -106,12 +106,6 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
   <a href="https://t.me/VinyciusXZ">
     <img src="https://img.shields.io/badge/Telegram-%40VinyciusXZ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/𝑽𝒊𝒏𝒚𝒄𝒊𝒖𝒔-𝑳𝒐𝒑𝒆𝒔-3b77963bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Vinycius%20Lopes-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://www.instagram.com/vinycius.art/">
-    <img src="https://img.shields.io/badge/Instagram-@vinycius.art-E4405F?style=for-the-badge&logo=instagram">
-  </a>
 </p>
 
 <p align="center">
@@ -138,6 +132,11 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
 
 <p align="center">
   <i>"Transformando ideias em realidade através da tecnologia e criatividade."</i>
+</p>
+
+<p align="center">
+  ✝ <strong>"Tudo posso naquele que me fortalece."</strong><br>
+  <sub>Filipenses 4:13</sub>
 </p>
 
 ---
