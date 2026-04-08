@@ -28,9 +28,11 @@ Atuo como freelancer desenvolvendo projetos que unem **programação + criativid
 ### 🎮 Game Developer & Digital Artist (Freelancer)  
 📍 São Paulo, Brasil  
 📅 jan/2022 – atualmente  
+
 ✔ Desenvolvimento de jogos com **Unity** e **Blender**  
 ✔ Criação de artes digitais com **Adobe Photoshop**  
 ✔ Projetos completos: conceito → design → implementação  
+
 🏆 Certificado pela SAGA em **Pintura Digital e Composição de Imagens**
 
 ---
@@ -40,6 +42,7 @@ Atuo como freelancer desenvolvendo projetos que unem **programação + criativid
 ### 🏫 SENAI São Paulo  
 📍 Santo André – SP  
 📅 2026 – 2027  
+
 ✔ Ensino médio com foco em tecnologia  
 ✔ Projetos voltados à inovação e desenvolvimento digital  
 ✔ Formação integrada com o **SESI 166**  
@@ -94,8 +97,14 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-contato-red?style=for-the-badge&logo=gmail">
+  <a href="mailto:vinycius.silva@edu.senai.br">
+    <img src="https://img.shields.io/badge/Email-vinycius.silva%40edu.senai.br-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://wa.me/5511967011872">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(11)%2096701--1872-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="https://t.me/VinyciusXZ">
+    <img src="https://img.shields.io/badge/Telegram-%40VinyciusXZ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/𝑽𝒊𝒏𝒚𝒄𝒊𝒖𝒔-𝑳𝒐𝒑𝒆𝒔-3b77963bb">
     <img src="https://img.shields.io/badge/LinkedIn-Vinycius%20Lopes-blue?style=for-the-badge&logo=linkedin">
@@ -103,6 +112,24 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
   <a href="https://www.instagram.com/vinycius.art/">
     <img src="https://img.shields.io/badge/Instagram-@vinycius.art-E4405F?style=for-the-badge&logo=instagram">
   </a>
+</p>
+
+<p align="center">
+  📞 Contato direto: <strong>+55 (11) 96701-1872</strong>
+</p>
+
+---
+
+## 🌐 Outras Redes Sociais
+
+<p align="center">
+  <a href="https://www.tiktok.com/@vinycius.art?_r=1&_t=ZS-95LDPPuMAMa">
+    <img src="https://img.shields.io/badge/TikTok-@vinycius.art-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+  <a href="https://vsco.co/vinycius-art/gallery">
+    <img src="https://img.shields.io/badge/VSCO-vinycius--art-000000?style=for-the-badge&logo=vsco&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/Discord-_snoknzx-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </p>
 
 ---
