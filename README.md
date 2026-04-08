@@ -119,6 +119,9 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
   <a href="https://vsco.co/vinycius-art/gallery">
     <img src="https://img.shields.io/badge/VSCO-vinycius--art-000000?style=for-the-badge&logo=vsco&logoColor=white">
   </a>
+  <a href="https://www.threads.com/@vinycius.art?hl=pt-br">
+    <img src="https://img.shields.io/badge/Threads-@vinycius.art-000000?style=for-the-badge&logo=threads&logoColor=white">
+  </a>
   <img src="https://img.shields.io/badge/Discord-_snoknzx-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </p>
 
