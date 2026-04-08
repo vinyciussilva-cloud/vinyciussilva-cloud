@@ -127,10 +127,6 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
 ## ⚡ Frase
 
 <p align="center">
-  <i>"Transformando ideias em realidade através da tecnologia e criatividade."</i>
-</p>
-
-<p align="center">
   ✝ <strong>"Tudo posso naquele que me fortalece."</strong><br>
   <sub>Filipenses 4:13</sub>
 </p>
