@@ -147,5 +147,5 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
 </p>
 
 <p align="center">
-  <img src="file:///C:/Users/Viinicius/Downloads/HUB.SAGA.html" width="800px"/>
+  <img src="https://raw.githubusercontent.com/seuusuario/repositorio/main/C.png)" width="800px"/>
 </p>
