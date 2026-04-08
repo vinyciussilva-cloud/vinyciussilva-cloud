@@ -15,11 +15,7 @@
 
 ## 🧠 Sobre mim
 
-Profissional em formação com **15 anos**, com certificação pela **SAGA**, referência nacional na formação de talentos em tecnologia e arte digital.
-
-Atuo como freelancer desenvolvendo projetos que unem **programação + criatividade**, indo do conceito visual à implementação funcional.
-
-💡 Foco em inovação, aprendizado constante e criação de experiências digitais impactantes.
+Profissional em formação com **15 anos**, com certificação pela **SAGA**, referência nacional na formação de talentos em tecnologia e arte digital. Atuo como freelancer desenvolvendo projetos que unem **programação + criatividade**, indo do conceito visual à implementação funcional. Foco em inovação, aprendizado constante e criação de experiências digitais impactantes.
 
 ---
 
