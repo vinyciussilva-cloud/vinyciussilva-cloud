@@ -136,3 +136,16 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
 <p align="center">
   ⭐ Se gostou do perfil, apoie com uma estrela nos repositórios!
 </p>
+
+## 📚 Certificações
+
+### 🎓 SAGA — Escola de Arte Digital
+
+<p align="center">
+  🖌 Pintura Digital<br>
+  🎨 Composição de Imagens
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AzolkeLopes/repositorio/main/certificado.png" width="800px"/>
+</p>
