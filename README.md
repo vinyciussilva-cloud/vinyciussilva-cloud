@@ -147,5 +147,5 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AzolkeLopes/repositorio/main/C.png)" width="800px"/>
+  <img src="https://raw.githubusercontent.com/AzolkeLopes/repositorio/main/C.png" width="800px"/>
 </p>
