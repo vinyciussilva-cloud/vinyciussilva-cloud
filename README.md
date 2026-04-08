@@ -1,7 +1,13 @@
-<!-- HEADER ANIMADO --> 
+<!-- HEADER ANIMADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Vinycius+Lopes+Monteiro+da+Silva;Game+Developer+%7C+Digital+Artist;Criando+o+futuro+com+tecnologia+e+criatividade" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Vinycius+Lopes+Monteiro+da+Silva;Game+Developer+%7C+Digital+Artist;Criando+o+futuro+com+tecnologia+e+criatividade;Bem-vindo+ao+meu+perfil+GitHub" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinyciussilva-cloud&color=00F7FF&style=for-the-badge"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=2&section=header"/>
 
 ---
 
@@ -15,9 +21,13 @@
 
 ## 🧠 Sobre mim
 
-Profissional em formação com **15 anos**, com certificação pela **SAGA**, referência nacional na formação de talentos em tecnologia e arte digital. Atuo como freelancer desenvolvendo projetos que unem **programação + criatividade**, indo do conceito visual à implementação funcional. Foco em inovação, aprendizado constante e criação de experiências digitais impactantes.
+Profissional em formação com **15 anos**, certificado pela **SAGA**, referência nacional em tecnologia e arte digital. Atuo como freelancer desenvolvendo projetos que unem **programação + criatividade**, indo do conceito visual até a implementação funcional.
+
+Focado em evolução constante, inovação e criação de experiências digitais de alto impacto.
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=2&section=header"/>
 
 ## 💼 Experiência
 
@@ -29,7 +39,7 @@ Profissional em formação com **15 anos**, com certificação pela **SAGA**, re
 ✔ Criação de artes digitais com **Adobe Photoshop**  
 ✔ Projetos completos: conceito → design → implementação  
 
-🏆 Certificado pela SAGA em **Pintura Digital e Composição de Imagens**
+🏆 Certificação SAGA em **Pintura Digital e Composição de Imagens**
 
 ---
 
@@ -40,20 +50,30 @@ Profissional em formação com **15 anos**, com certificação pela **SAGA**, re
 📅 2026 – 2027  
 
 ✔ Ensino médio com foco em tecnologia  
-✔ Projetos voltados à inovação e desenvolvimento digital  
+✔ Projetos voltados à inovação  
 ✔ Formação integrada com o **SESI 166**  
 
-📌 Áreas de destaque:
-- Desenvolvimento Web  
-- Sistemas Operacionais  
-- Trabalho em equipe e organização  
-
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=2&section=header"/>
 
 ## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ps,blender,unity,vscode,excel&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinyciussilva-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vinyciussilva-cloud&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinyciussilva-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
 </p>
 
 ---
@@ -73,7 +93,7 @@ Profissional em formação com **15 anos**, com certificação pela **SAGA**, re
 ## 🔥 Projetos em Destaque
 
 <p align="center">
-  🚧 Em construção... em breve projetos incríveis por aqui!
+  🚧 Em construção... grandes projetos estão chegando!
 </p>
 
 ---
@@ -90,22 +110,24 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=2&section=header"/>
+
 ## 📫 Contato
 
 <p align="center">
   <a href="mailto:vinycius.silva@edu.senai.br">
-    <img src="https://img.shields.io/badge/Email-vinycius.silva%40edu.senai.br-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://wa.me/5511967011872">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(11)%2096701--1872-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://t.me/VinyciusXZ">
-    <img src="https://img.shields.io/badge/Telegram-%40VinyciusXZ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  📞 Contato direto: <strong>+55 (11) 96701-1872</strong>
+  📞 <strong>+55 (11) 96701-1872</strong>
 </p>
 
 ---
@@ -113,7 +135,7 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
 ## 🌐 Outras Redes Sociais
 
 <p align="center">
-  <a href="https://www.tiktok.com/@vinycius.art?_r=1&_t=ZS-95LDPPuMAMa">
+  <a href="https://www.tiktok.com/@vinycius.art">
     <img src="https://img.shields.io/badge/TikTok-@vinycius.art-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
   <a href="https://vsco.co/vinycius-art/gallery">
@@ -137,5 +159,5 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
 ---
 
 <p align="center">
-  ⭐ Se gostou do perfil, apoie com uma estrela nos repositórios!
+  ⭐ Se curtiu, deixa uma estrela nos repositórios!
 </p>
