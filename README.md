@@ -5,7 +5,7 @@
 
 ---
 
-# 👨‍💻 Vinycius Lopes Monteiro da Silva
+<h1 align="center">👨‍💻 Vinycius Lopes Monteiro da Silva</h1>
 
 <p align="center">
   🚀 Desenvolvedor em formação • 🎮 Game Dev • 🎨 Artista Digital
