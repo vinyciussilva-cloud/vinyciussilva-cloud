@@ -136,3 +136,20 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
 <p align="center">
   ⭐ Se gostou do perfil, apoie com uma estrela nos repositórios!
 </p>
+
+## 📚 Certificações
+
+### 🎓 SAGA — Escola de Arte Digital
+
+<p align="center">
+  🖌 Certificado em <strong>Pintura Digital</strong><br>
+  🎨 Certificado em <strong>Composição de Imagens</strong>
+</p>
+
+<p align="center">
+  🏆 Formação voltada para criação artística profissional, incluindo composição visual, tratamento de imagem e fundamentos de design.
+</p>
+
+<p align="center">
+  <img src="file:///C:/Users/Viinicius/Downloads/Certificado%20de%20Pintura%20Digital%20-%20Saga.htmlO" width="800px"/>
+</p>
