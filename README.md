@@ -28,11 +28,9 @@ Atuo como freelancer desenvolvendo projetos que unem **programação + criativid
 ### 🎮 Game Developer & Digital Artist (Freelancer)  
 📍 São Paulo, Brasil  
 📅 jan/2022 – atualmente  
-
 ✔ Desenvolvimento de jogos com **Unity** e **Blender**  
 ✔ Criação de artes digitais com **Adobe Photoshop**  
 ✔ Projetos completos: conceito → design → implementação  
-
 🏆 Certificado pela SAGA em **Pintura Digital e Composição de Imagens**
 
 ---
@@ -42,7 +40,6 @@ Atuo como freelancer desenvolvendo projetos que unem **programação + criativid
 ### 🏫 SENAI São Paulo  
 📍 Santo André – SP  
 📅 2026 – 2027  
-
 ✔ Ensino médio com foco em tecnologia  
 ✔ Projetos voltados à inovação e desenvolvimento digital  
 ✔ Formação integrada com o **SESI 166**  
@@ -100,11 +97,11 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/Email-contato-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-perfil-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/𝑽𝒊𝒏𝒚𝒄𝒊𝒖𝒔-𝑳𝒐𝒑𝒆𝒔-3b77963bb">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinycius%20Lopes-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-@user-pink?style=for-the-badge&logo=instagram">
+  <a href="https://www.instagram.com/vinycius.art/">
+    <img src="https://img.shields.io/badge/Instagram-@vinycius.art-E4405F?style=for-the-badge&logo=instagram">
   </a>
 </p>
 
