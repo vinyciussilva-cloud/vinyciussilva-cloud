@@ -75,7 +75,7 @@ Realizei minha formação presencial na SAGA Escola de Arte Digital, no centro d
 
 ## 📚 Certificações
 
-🎓 **SAGA** instituição brasileira focada em cursos de capacitação técnica nas áreas de desenvolvimento de jogos, arte digital, animação 3D e efeitos visuais. Com mais de 20 anos de atuação, oferece ensino presencial e online, sendo voltada para o mercado de criatividade.
+🎓 **SAGA Escola de Arte Digital** (instituição brasileira focada em cursos de capacitação técnica nas áreas de desenvolvimento de jogos, arte digital, animação 3D e efeitos visuais. Com mais de 20 anos de atuação, oferece ensino presencial e online, sendo voltada para o mercado de criatividade).
 
 **Composição de Imagens**
 
