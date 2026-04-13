@@ -11,7 +11,7 @@
 <!-- BADGES DE STATUS -->
 <img src="https://img.shields.io/badge/Idade-15%20anos-7b2fff?style=flat-square&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/Status-Disponível-00f7ff?style=flat-square&labelColor=0d0d0d&logo=statuspage&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Localização-Santo%20André%2C%20SP-ff6b6b?style=flat-square&labelColor=0d0d0d&logo=googlemaps&logoColor=ff6b6b"/>
+[![Localização](https://img.shields.io/badge/Localização-Santo%20André%2C%20SP-ff6b6b?style=flat-square&labelColor=0d0d0d&logo=googlemaps&logoColor=ff6b6b)](https://maps.google.com/?q=Rua+Dona+Silla+Nalon+Gonzaga,+230,+Santo+André,+SP,+09112-000)
 <img src="https://img.shields.io/badge/Foco-Game%20Dev-00f7ff?style=flat-square&labelColor=0d0d0d"/>
 
 </div>
@@ -155,10 +155,10 @@ Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00f7ff,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
-
 ✝ *"Tudo posso naquele que me fortalece."* — **Filipenses 4:13**
 
 ⭐ Se gostou, deixe uma estrela nos repositórios!
 
-</div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00f7ff,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
