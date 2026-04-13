@@ -134,8 +134,7 @@ Realizei minha formação presencial na SAGA Escola de Arte Digital, no centro d
 
 ## 📚 Certificações
 
-🎓 **SAGA** 
-
+🎓 **SAGA** instituição brasileira focada em cursos de capacitação técnica nas áreas de desenvolvimento de jogos, arte digital, animação 3D e efeitos visuais.
 
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQH_jIa46Upxpw/feedshare-shrink_800/B4DZ2IKge3GUAc-/0/1776105949460?e=1777507200&v=beta&t=q6JR2k_BAcSp-NCcJ_HEQgfrkmaL1g1Ih3MT50eEfFw" width="400">
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQH8fxihIgz87w/feedshare-shrink_800/B4DZ2INasZIAAc-/0/1776106712099?e=1777507200&v=beta&t=O4Dje9zQaCJowEnXuZmDjUmjWmYK204LorBnttfqV4E" width="400">
