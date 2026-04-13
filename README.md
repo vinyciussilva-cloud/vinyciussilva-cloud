@@ -102,7 +102,7 @@ Ensino médio técnico com foco em **tecnologia e inovação digital**, combinan
 <td width="50px" align="center">🏫</td>
 <td>
 
-**SESI 166 — Serviço Social da Indústria** · `2026 – 2027`  
+**SESI 166 — Serviço Social da Indústria** · `2016 – 2027`  
 Santo André, SP · Integrado com **SENAI São Paulo**
 
 Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, cidadania e bem-estar do estudante. Proporciona atividades extracurriculares, apoio pedagógico e formação de valores para atuação profissional e pessoal responsável.
