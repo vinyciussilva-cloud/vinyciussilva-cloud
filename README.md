@@ -79,9 +79,6 @@ Formação completa em arte digital e desenvolvimento de jogos. Projetos prátic
 - Sistemas Operacionais  
 - Trabalho em equipe e organização
 
-
-Ensino médio com foco em tecnologia — Desenvolvimento Web, Sistemas Operacionais, Inovação Digital e trabalho em equipe.
-
 </td>
 </tr>
 </table>
