@@ -138,7 +138,7 @@ Realizei minha formação presencial na SAGA Escola de Arte Digital, no centro d
 
 Composição de Imagens
 
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQH_jIa46Upxpw/feedshare-shrink_800/B4DZ2IKge3GUAc-/0/1776105949460?e=1777507200&v=beta&t=q6JR2k_BAcSp-NCcJ_HEQgfrkmaL1g1Ih3MT50eEfFw](https://media.licdn.com/dms/image/v2/D4D22AQGE3h6Wv82RlA/feedshare-shrink_2048_1536/B4DZ2IQ2RPIEAg-/0/1776107611505?e=1777507200&v=beta&t=juJkO2wRa0oDnBb1Nnu6iYkKhYkoVNcCMmDEtaw134E" width="200">
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQH_jIa46Upxpw/feedshare-shrink_800/B4DZ2IKge3GUAc-/0/1776105949460?e=1777507200&v=beta&t=q6JR2k_BAcSp-NCcJ_HEQgfrkmaL1g1Ih3MT50eEfFw](https://media.licdn.com/dms/image/v2/D4D22AQGE3h6Wv82RlA/feedshare-shrink_2048_1536/B4DZ2IQ2RPIEAg-/0/1776107611505?e=1777507200&v=beta&t=juJkO2wRa0oDnBb1Nnu6iYkKhYkoVNcCMmDEtaw134E" width="400">
 
 Pintura Digital
 
