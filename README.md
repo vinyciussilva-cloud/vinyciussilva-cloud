@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="48"/>
 <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="48"/>
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=dark" height="48"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://skillicons.dev/icons?i=exel&theme=dark" height="48"/>
 
 </div>
 
