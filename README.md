@@ -2,8 +2,9 @@
 
 <!-- BANNER ANIMADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00f7ff,100:7b2fff&height=200&section=header&text=Vinycius%20Lopes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20Digital%20Artist&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🎮+Game+Developer+em+formação;🎨+Digital+Artist+%7C+SAGA+Certified;⚡+Unity+•+Blender+•+Photoshop;🚀+Transformando+ideias+em+experiências" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Game+Developer+%26+Digital+Artist;Adobe+Photoshop+%C2%B7+Blender+%C2%B7+Unity+%C2%B7+Microsoft+Office+%C2%B7+Excel+%C2%B7+VsCode" alt="Typing SVG" />
 
 <br/>
 
@@ -17,9 +18,7 @@
 
 ## 🧠 Sobre mim
 
-**Game Developer & Digital Artist | SAGA Certified | Adobe Photoshop · Blender · Unity · Microsoft Office · Excel · VsCode**
-
-> Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e certificação pela **SAGA** — referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação. Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Unity**, **Blender** e **Adobe Photoshop**, com foco em performance, estética e usabilidade.
+Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e certificação pela **Escola SAGA** — referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação. Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Unity**, **Blender** e **Adobe Photoshop**, com foco em performance, estética e usabilidade.
 
 ---
 
