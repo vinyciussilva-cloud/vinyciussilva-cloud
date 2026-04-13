@@ -11,8 +11,6 @@
 <!-- BADGES DE STATUS -->
 <img src="https://img.shields.io/badge/Idade-15%20anos-7b2fff?style=flat-square&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/Status-Disponível-00f7ff?style=flat-square&labelColor=0d0d0d&logo=statuspage&logoColor=00f7ff"/>
-[![Localização](https://img.shields.io/badge/Localização-Santo%20André%2C%20SP-ff6b6b?style=flat-square&labelColor=0d0d0d&logo=googlemaps&logoColor=ff6b6b)](https://maps.google.com/?q=Rua+Dona+Silla+Nalon+Gonzaga,+230,+Santo+André,+SP,+09112-000)
-<img src="https://img.shields.io/badge/Foco-Game%20Dev-00f7ff?style=flat-square&labelColor=0d0d0d"/>
 
 </div>
 
