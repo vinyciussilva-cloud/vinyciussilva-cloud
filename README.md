@@ -136,13 +136,13 @@ Realizei minha formação presencial na SAGA Escola de Arte Digital, no centro d
 
 🎓 **SAGA** instituição brasileira focada em cursos de capacitação técnica nas áreas de desenvolvimento de jogos, arte digital, animação 3D e efeitos visuais. Com mais de 20 anos de atuação, oferece ensino presencial e online, sendo voltada para o mercado de criatividade.
 
-Composição de Imagens
+**Composição de Imagens**
 
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQGE3h6Wv82RlA/feedshare-shrink_2048_1536/B4DZ2IQ2RPIEAg-/0/1776107611505?e=1777507200&v=beta&t=juJkO2wRa0oDnBb1Nnu6iYkKhYkoVNcCMmDEtaw134E" width="400">
 
-Pintura Digital
+**Pintura Digital**
 
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQH8fxihIgz87w/feedshare-shrink_800/B4DZ2INasZIAAc-/0/1776106712099?e=1777507200&v=beta&t=O4Dje9zQaCJowEnXuZmDjUmjWmYK204LorBnttfqV4E" width="400">
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQHQAhzblGIKSw/feedshare-shrink_800/B4DZ2IQyUaHUAc-/0/1776107595275?e=1777507200&v=beta&t=52thSBZw3OC6rqPx6Rpdr5af5WnJLlJBY5sV4ttLxps" width="400">
 
 ---
 
