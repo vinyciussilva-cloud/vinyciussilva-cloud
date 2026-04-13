@@ -66,9 +66,18 @@ Formação completa em arte digital e desenvolvimento de jogos. Projetos prátic
 <td width="50px" align="center">🏫</td>
 <td>
 
-### 🏫 SENAI São Paulo   `2026 – 2027`  
+### 🏫 SENAI São Paulo  
 📍 Santo André – SP  
 📅 2026 – 2027  
+
+✔ Ensino médio com foco em tecnologia  
+✔ Projetos voltados à inovação e desenvolvimento digital  
+✔ Formação integrada com o **SESI 166**  
+
+📌 Áreas de destaque:
+- Desenvolvimento Web  
+- Sistemas Operacionais  
+- Trabalho em equipe e organização
 
 
 Ensino médio com foco em tecnologia — Desenvolvimento Web, Sistemas Operacionais, Inovação Digital e trabalho em equipe.
