@@ -205,3 +205,5 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, cri
 <p align="center">
   ⭐ Se gostou do perfil, apoie com uma estrela nos repositórios!
 </p>
+
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
