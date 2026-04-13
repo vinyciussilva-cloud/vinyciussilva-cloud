@@ -18,19 +18,14 @@
 
 ---
 
-## ⚡ Sobre mim
+## 🧠 Sobre mim
 
-```javascript
-const vinycius = {
-  nome:       "Vinycius Lopes Monteiro da Silva",
-  idade:       15,
-  localização: "Santo André, São Paulo 🇧🇷",
-  formação:   ["SAGA Escola de Arte Digital", "SENAI + SESI 166"],
-  foco:       ["Game Development", "Digital Art", "3D Modeling"],
-  ferramentas: ["Unity", "Blender", "Adobe Photoshop", "VS Code"],
-  certificações: ["Pintura Digital — SAGA", "Composição de Imagens — SAGA"],
-  missão:     "Unir tecnologia, design e criatividade para criar experiências impactantes"
-};
+**Game Developer & Digital Artist | SAGA Certified | Unity · Blender · Photoshop**
+
+Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e certificação pela **SAGA** — referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação.
+
+Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Unity**, **Blender** e **Adobe Photoshop**, com foco em performance, estética e usabilidade.
+
 ```
 
 > Desenvolvedor de jogos e artista digital com certificação pela **SAGA** — referência nacional na indústria criativa. Desde a concepção até a entrega final, crio experiências digitais que unem estética, interatividade e lógica de programação.
@@ -40,16 +35,9 @@ const vinycius = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### 🎮 Game Dev & 3D
 <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="48"/>
-
-### 🎨 Design & Arte
 <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="48"/>
-
-### 💻 Dev & Ferramentas
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=dark" height="48"/>
-
 </div>
 
 ---
