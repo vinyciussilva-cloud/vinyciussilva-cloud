@@ -18,19 +18,13 @@
 
 ---
 
-## ⚡ Sobre mim
+## 🧠 Sobre mim
 
-```javascript
-const vinycius = {
-  nome:       "Vinycius Lopes Monteiro da Silva",
-  idade:       15,
-  localização: "Santo André, São Paulo 🇧🇷",
-  formação:   ["SAGA Escola de Arte Digital", "SENAI + SESI 166"],
-  foco:       ["Game Development", "Digital Art", "3D Modeling"],
-  ferramentas: ["Unity", "Blender", "Adobe Photoshop", "VS Code"],
-  certificações: ["Pintura Digital — SAGA", "Composição de Imagens — SAGA"],
-  missão:     "Unir tecnologia, design e criatividade para criar experiências impactantes"
-};
+**Game Developer & Digital Artist | SAGA Certified | Unity · Blender · Photoshop**
+
+Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e certificação pela **SAGA** — referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação.
+
+Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Unity**, **Blender** e **Adobe Photoshop**, com foco em performance, estética e usabilidade.
 ```
 
 > Desenvolvedor de jogos e artista digital com certificação pela **SAGA** — referência nacional na indústria criativa. Desde a concepção até a entrega final, crio experiências digitais que unem estética, interatividade e lógica de programação.
@@ -92,7 +86,7 @@ Desenvolvi projetos práticos do zero com **Unity**, **Blender** e **Adobe Photo
 <td>
 
 **SENAI São Paulo** · `2026 – 2027` · `Em andamento`  
-Santo André, SP · Integrado com **SESI 166**
+Santo André, SP · Integrado com **SESI-166**
 
 Ensino médio técnico com foco em **tecnologia e inovação digital**, combinando disciplinas do ensino regular com conteúdos técnicos aplicados — como Desenvolvimento Web, Sistemas Operacionais, Excel, metodologias ágeis e segurança digital — preparando para os desafios da indústria criativa e do mercado de trabalho.
 
@@ -102,7 +96,7 @@ Ensino médio técnico com foco em **tecnologia e inovação digital**, combinan
 <td width="50px" align="center">🏫</td>
 <td>
 
-**SESI 166 — Serviço Social da Indústria** · `2016 – 2027`  
+**CE SESI-166 — Serviço Social da Indústria** · `2016 – 2027`  
 Santo André, SP · Integrado com **SENAI São Paulo**
 
 Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, cidadania e bem-estar do estudante. Proporciona atividades extracurriculares, apoio pedagógico e formação de valores para atuação profissional e pessoal responsável.
