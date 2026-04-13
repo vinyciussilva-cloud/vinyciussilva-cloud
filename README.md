@@ -1,156 +1,177 @@
-<!-- HEADER ANIMADO --> 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Vinycius+Lopes+Monteiro+da+Silva;Game+Developer+%7C+Digital+Artist;Criando+o+futuro+com+tecnologia+e+criatividade" />
-</p>
+<div align="center">
+
+<!-- BANNER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00f7ff,100:7b2fff&height=200&section=header&text=Vinycius%20Lopes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20Digital%20Artist&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🎮+Game+Developer+em+formação;🎨+Digital+Artist+%7C+SAGA+Certified;⚡+Unity+•+Blender+•+Photoshop;🚀+Transformando+ideias+em+experiências" alt="Typing SVG" />
+
+<br/>
+
+<!-- BADGES DE STATUS -->
+<img src="https://img.shields.io/badge/Idade-15%20anos-7b2fff?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Status-Disponível-00f7ff?style=flat-square&labelColor=0d0d0d&logo=statuspage&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/Localização-Santo%20André%2C%20SP-ff6b6b?style=flat-square&labelColor=0d0d0d&logo=googlemaps&logoColor=ff6b6b"/>
+<img src="https://img.shields.io/badge/Foco-Game%20Dev-00f7ff?style=flat-square&labelColor=0d0d0d"/>
+
+</div>
 
 ---
 
-<h1 align="center">👨‍💻 Vinycius Lopes Monteiro da Silva</h1>
+## ⚡ Sobre mim
 
-<p align="center">
-  🚀 Desenvolvedor em formação • 🎮 Game Dev • 🎨 Artista Digital
-</p>
+```javascript
+const vinycius = {
+  nome:       "Vinycius Lopes Monteiro da Silva",
+  idade:       15,
+  localização: "Santo André, São Paulo 🇧🇷",
+  formação:   ["SAGA Escola de Arte Digital", "SENAI + SESI 166"],
+  foco:       ["Game Development", "Digital Art", "3D Modeling"],
+  ferramentas: ["Unity", "Blender", "Adobe Photoshop", "VS Code"],
+  certificações: ["Pintura Digital — SAGA", "Composição de Imagens — SAGA"],
+  missão:     "Unir tecnologia, design e criatividade para criar experiências impactantes"
+};
+```
+
+> Desenvolvedor de jogos e artista digital com certificação pela **SAGA** — referência nacional na indústria criativa. Desde a concepção até a entrega final, crio experiências digitais que unem estética, interatividade e lógica de programação.
 
 ---
 
-## 🧠 Sobre mim
+## 🛠️ Tech Stack
 
-**Game Developer & Digital Artist | SAGA Certified | Unity · Blender · Photoshop**
+<div align="center">
 
-Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e certificação pela **SAGA** — referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação.
+### 🎮 Game Dev & 3D
+<img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="48"/>
 
-Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Unity**, **Blender** e **Adobe Photoshop**, com foco em performance, estética e usabilidade.
+### 🎨 Design & Arte
+<img src="https://skillicons.dev/icons?i=ps&theme=dark" height="48"/>
+
+### 💻 Dev & Ferramentas
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=dark" height="48"/>
+
+</div>
 
 ---
 
 ## 💼 Experiência
 
-### 🎨 Artista Digital & Desenvolvedor de Jogos — Aprendiz  
-🏫 **SAGA Escola de Arte Digital**  
-📍 Santo André – São Paulo, Brasil · Presencial  
-📅 Duração: 2 anos · Professor: Bob (Matheus)  
+<table>
+<tr>
+<td width="50px" align="center">🎨</td>
+<td>
 
-Realizei minha formação presencial na SAGA Escola de Arte Digital, no centro de Santo André (SP), durante dois anos, com foco em arte digital e desenvolvimento de jogos. Nesse período, adquiri experiência prática com ferramentas como **Blender**, **Adobe Photoshop** e **Unity**, desenvolvendo projetos que integravam criatividade e tecnologia. Como resultado, conquistei certificações em **Pintura Digital** e **Composição de Imagens**, consolidando uma base sólida para atuação no mercado criativo.
+**Artista Digital & Game Developer — Aprendiz**  
+[SAGA Escola de Arte Digital](https://www.saga.art.br) · Presencial · Santo André, SP  
+`2 anos` · Prof. Bob (Matheus)
 
-🏆 **Certificações SAGA:** Pintura Digital & Composição de Imagens
+Formação completa em arte digital e desenvolvimento de jogos. Projetos práticos integrando criatividade e tecnologia com **Blender**, **Photoshop** e **Unity**.
+
+🏆 **Certificações:** Pintura Digital · Composição de Imagens
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-### 🏫 SENAI São Paulo  
-📍 Santo André – SP  
-📅 2026 – 2027  
+<table>
+<tr>
+<td width="50px" align="center">🏫</td>
+<td>
 
-✔ Ensino médio com foco em tecnologia  
-✔ Projetos voltados à inovação e desenvolvimento digital  
-✔ Formação integrada com o **SESI 166**  
+**SENAI São Paulo** · `2026 – 2027`  
+Santo André, SP · Integrado com **SESI 166**
 
-📌 Áreas de destaque:
-- Desenvolvimento Web  
-- Sistemas Operacionais  
-- Trabalho em equipe e organização  
+Ensino médio com foco em tecnologia — Desenvolvimento Web, Sistemas Operacionais, Inovação Digital e trabalho em equipe.
 
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,blender,unity,vscode,excel&theme=dark" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Badges Profissionais
+## 📜 Certificações
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Game%20Dev-Unity-black?style=for-the-badge&logo=unity"/>
-  <img src="https://img.shields.io/badge/Digital%20Art-Photoshop-blue?style=for-the-badge&logo=adobephotoshop"/>
-  <img src="https://img.shields.io/badge/3D-Blender-orange?style=for-the-badge&logo=blender"/>
-  <img src="https://img.shields.io/badge/Code-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Data-Excel-green?style=for-the-badge&logo=microsoft-excel"/>
-</p>
+<div align="center">
+
+| Certificação | Instituição | Área |
+|:---:|:---:|:---:|
+| 🖌️ Pintura Digital | SAGA | Arte Digital |
+| 🖼️ Composição de Imagens | SAGA | Design Visual |
+
+</div>
+
+<details>
+<summary><b>🔍 Ver certificados</b></summary>
+<br>
+<div align="center">
+<b>Composição de Imagens</b><br>
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQGE3h6Wv82RlA/feedshare-shrink_2048_1536/B4DZ2IQ2RPIEAg-/0/1776107611505?e=1777507200&v=beta&t=juJkO2wRa0oDnBb1Nnu6iYkKhYkoVNcCMmDEtaw134E" width="380"/>
+<br><br>
+<b>Pintura Digital</b><br>
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQHQAhzblGIKSw/feedshare-shrink_800/B4DZ2IQyUaHUAc-/0/1776107595275?e=1777507200&v=beta&t=52thSBZw3OC6rqPx6Rpdr5af5WnJLlJBY5sV4ttLxps" width="380"/>
+</div>
+</details>
 
 ---
 
-## 📚 Certificações
+## 📊 GitHub Stats
 
-🎓 **SAGA Escola de Arte Digital** (instituição brasileira focada em cursos de capacitação técnica nas áreas de desenvolvimento de jogos, arte digital, animação 3D e efeitos visuais. Com mais de 20 anos de atuação, oferece ensino presencial e online, sendo voltada para o mercado de criatividade).
+<div align="center">
 
-**Composição de Imagens**
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&bg_color=0d0d0d&border_color=00f7ff&title_color=00f7ff&icon_color=7b2fff&text_color=ffffff&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&bg_color=0d0d0d&border_color=00f7ff&title_color=00f7ff&text_color=ffffff" />
 
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQGE3h6Wv82RlA/feedshare-shrink_2048_1536/B4DZ2IQ2RPIEAg-/0/1776107611505?e=1777507200&v=beta&t=juJkO2wRa0oDnBb1Nnu6iYkKhYkoVNcCMmDEtaw134E" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&background=0d0d0d&border=00f7ff&ring=7b2fff&fire=00f7ff&currStreakLabel=ffffff" />
 
-**Pintura Digital**
-
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQHQAhzblGIKSw/feedshare-shrink_800/B4DZ2IQyUaHUAc-/0/1776107595275?e=1777507200&v=beta&t=52thSBZw3OC6rqPx6Rpdr5af5WnJLlJBY5sV4ttLxps" width="400">
+</div>
 
 ---
 
 ## 🎯 Objetivo
 
-Construir uma carreira sólida unindo **tecnologia, design e criatividade**, criando jogos e experiências digitais impactantes. Evoluindo como **Game Developer e Digital Artist**, transformando ideias em projetos interativos, com foco em performance, estética e inovação.
+> Construir uma carreira sólida na interseção entre **tecnologia, design e criatividade** — desenvolvendo jogos e experiências digitais que gerem impacto real, com foco em performance, estética e inovação.
 
 ---
 
-## 📫 Contato
+## 📬 Contato
 
-<p align="center">
-  <a href="mailto:vinycius.silva@edu.senai.br">
-    <img src="https://img.shields.io/badge/Email-vinycius.silva%40edu.senai.br-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://wa.me/5511967011872">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(11)%2096701--1872-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="https://t.me/VinyciusXZ">
-    <img src="https://img.shields.io/badge/Telegram-%40VinyciusXZ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  📞 Contato direto: <strong>+55 (11) 96701-1872</strong>
-</p>
+[![Email](https://img.shields.io/badge/Email-vinycius.silva%40edu.senai.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:vinycius.silva@edu.senai.br)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2011%2096701--1872-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d)](https://wa.me/5511967011872)
+[![Telegram](https://img.shields.io/badge/Telegram-%40VinyciusXZ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d)](https://t.me/VinyciusXZ)
+
+</div>
 
 ---
 
-## 🌐 Outras Redes Sociais
+## 🌐 Redes Sociais
 
-<p align="center">
-  <a href="https://www.instagram.com/vinycius.art/">
-    <img src="https://img.shields.io/badge/Instagram-@vinycius.art-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://x.com/vinyciusart">
-    <img src="https://img.shields.io/badge/X-@vinyciusart-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/𝑽𝒊𝒏𝒚𝒄𝒊𝒖𝒔-𝑳𝒐𝒑𝒆𝒔-3b77963bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Vinycius%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.reddit.com/user/Far_Arachnid7399/">
-    <img src="https://img.shields.io/badge/Reddit-u%2FFar__Arachnid7399-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-  </a>
-  <a href="https://www.tiktok.com/@vinycius.art?_r=1&_t=ZS-95LDPPuMAMa">
-    <img src="https://img.shields.io/badge/TikTok-@vinycius.art-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
-  <a href="https://vsco.co/vinycius-art/gallery">
-    <img src="https://img.shields.io/badge/VSCO-vinycius--art-000000?style=for-the-badge&logo=vsco&logoColor=white">
-  </a>
-  <a href="https://www.threads.com/@vinycius.art?hl=pt-br">
-    <img src="https://img.shields.io/badge/Threads-@vinycius.art-000000?style=for-the-badge&logo=threads&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Discord-_snoknzx-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinycius%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/𝑽𝒊𝒏𝒚𝒄𝒊𝒖𝒔-𝑳𝒐𝒑𝒆𝒔-3b77963bb)
+[![Instagram](https://img.shields.io/badge/Instagram-%40vinycius.art-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://www.instagram.com/vinycius.art/)
+[![TikTok](https://img.shields.io/badge/TikTok-%40vinycius.art-ffffff?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0d0d)](https://www.tiktok.com/@vinycius.art)
+[![X](https://img.shields.io/badge/X-%40vinyciusart-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d)](https://x.com/vinyciusart)
+[![Threads](https://img.shields.io/badge/Threads-%40vinycius.art-ffffff?style=for-the-badge&logo=threads&logoColor=white&labelColor=0d0d0d)](https://www.threads.com/@vinycius.art)
+[![Discord](https://img.shields.io/badge/Discord-snoknzx-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d)](https://discord.com)
+[![Reddit](https://img.shields.io/badge/Reddit-u%2FFar__Arachnid7399-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0d0d0d)](https://www.reddit.com/user/Far_Arachnid7399/)
+[![VSCO](https://img.shields.io/badge/VSCO-vinycius--art-000000?style=for-the-badge&logo=vsco&logoColor=white&labelColor=0d0d0d)](https://vsco.co/vinycius-art/gallery)
+
+</div>
 
 ---
 
-## ⚡ Frase
+<div align="center">
 
-<p align="center">
-  ✝ <strong>"Tudo posso naquele que me fortalece."</strong><br>
-  <sub>Filipenses 4:13</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00f7ff,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
 
----
+✝ *"Tudo posso naquele que me fortalece."* — **Filipenses 4:13**
 
-<p align="center">
-  ⭐ Se gostou do perfil, apoie com uma estrela nos repositórios!
-</p>
+⭐ Se gostou, deixe uma estrela nos repositórios!
+
+</div>
