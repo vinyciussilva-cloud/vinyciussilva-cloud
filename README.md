@@ -2,7 +2,6 @@
 
 <!-- BANNER ANIMADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00f7ff,100:7b2fff&height=200&section=header&text=Vinycius%20Lopes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20Digital%20Artist&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🎮+Game+Developer+em+formação;🎨+Digital+Artist+%7C+SAGA+Certified;⚡+Unity+•+Blender+•+Photoshop;🚀+Transformando+ideias+em+experiências" alt="Typing SVG" />
 
@@ -41,18 +40,17 @@
 <td>
 
 **Artista Digital & Game Developer — Aprendiz**  
+
 [SAGA Escola de Arte Digital](https://www.saga.art.br) · Presencial · Santo André, SP  
-`2023 – 2025` · `2 anos` · Prof. Bob (Matheus)
+`2022 – 2024` · `2 anos` · Prof. Bob (Matheus)
 
-Formação presencial de dois anos na **SAGA** — uma das maiores referências nacionais em cursos técnicos de arte digital, animação 3D, desenvolvimento de jogos e efeitos visuais, com mais de 20 anos de atuação no mercado criativo.
-
-Desenvolvi projetos práticos do zero com **Unity**, **Blender** e **Adobe Photoshop**, cobrindo desde mecânicas de gameplay e modelagem 3D até pintura digital e composição visual — sempre da concepção à entrega final.
+Formação presencial intensiva de dois anos na SAGA, referência nacional na formação de profissionais para o mercado criativo em arte digital, animação 3D, desenvolvimento de jogos e efeitos visuais. Ao longo do programa, desenvolvi projetos completos do zero, utilizando **Unity**, **Blender** e **Adobe Photoshop**, atuando em todo o pipeline de produção: da concepção e design de mecânicas de gameplay à modelagem 3D, pintura digital e composição visual, sempre com foco em qualidade técnica, consistência estética e entrega final profissional.
 
 🏆 **Certificações conquistadas:**
-| Badge | Certificação | Área |
-|:---:|:---|:---|
-| 🖌️ | Pintura Digital | Arte Digital |
-| 🖼️ | Composição de Imagens | Design Visual |
+| Certificação | Área |
+|:---|:---|
+| Pintura Digital | Arte Digital |
+|Composição de Imagens | Design Visual |
 
 </td>
 </tr>
@@ -70,15 +68,14 @@ Desenvolvi projetos práticos do zero com **Unity**, **Blender** e **Adobe Photo
 **SENAI São Paulo** · `2026 – 2027` · `Em andamento`  
 Santo André, SP · Integrado com **SESI-166**
 
-Ensino médio técnico com foco em **tecnologia e inovação digital**, combinando disciplinas do ensino regular com conteúdos técnicos aplicados — como Desenvolvimento Web, Design Digital, Sistemas Operacionais, Levantamento de Requisitos, Logica de programação, Arquitetura de Rede, Microsoft Excel, Programação JavaScript, metodologias ágeis e segurança digital — preparando para os desafios da indústria criativa e do mercado de trabalho.
-
+Ensino médio técnico com foco em **tecnologia e inovação digital**, combinando disciplinas do ensino regular com conteúdos técnicos aplicados como Desenvolvimento Web, Design Digital, Sistemas Operacionais, Levantamento de Requisitos, Logica de programação, Arquitetura de Rede, Microsoft Excel, Programação JavaScript.
 </td>
 </tr>
 <tr>
 <td width="50px" align="center">🏫</td>
 <td>
 
-**CE SESI-166 — Serviço Social da Indústria** · `2016 – 2027`  
+**CE SESI 166 — Serviço Social da Indústria** · `2016 – 2027`  
 Santo André, SP · Integrado com **SENAI São Paulo**
 
 Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, cidadania e bem-estar do estudante. Proporciona atividades extracurriculares, apoio pedagógico e formação de valores para atuação profissional e pessoal responsável.
@@ -95,8 +92,8 @@ Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, 
 
 | Certificação | Instituição | Área |
 |:---:|:---:|:---:|
-| 🖌️ Pintura Digital | SAGA | Arte Digital |
-| 🖼️ Composição de Imagens | SAGA | Design Visual |
+| 🖌️ Pintura Digital | Escola SAGA | Arte Digital |
+| 🖼️ Composição de Imagens | Escola SAGA | Design Visual |
 
 </div>
 
@@ -116,7 +113,7 @@ Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, 
 
 ## 🎯 Objetivo
 
-> Construir uma carreira sólida na interseção entre **tecnologia, design e criatividade** — desenvolvendo jogos e experiências digitais que gerem impacto real, com foco em performance, estética e inovação.
+> Construir uma carreira de alto nível na interseção entre tecnologia, design e criatividade, consolidando expertise no desenvolvimento de jogos e experiências digitais imersivas, escaláveis e orientadas a performance, com excelência técnica, estética refinada e inovação contínua, visando impacto global, relevância no mercado e contribuição significativa para a indústria criativa e tecnológica.
 
 ---
 
