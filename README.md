@@ -140,7 +140,7 @@ Realizei minha formação presencial na SAGA Escola de Arte Digital, no centro d
 
 ## 🎯 Objetivo
 
-Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com foco em desenvolvimento de jogos e experiências digitais inovadoras.
+Construir uma carreira sólida unindo **tecnologia, design e criatividade**, criando jogos e experiências digitais impactantes. Evoluindo como **Game Developer e Digital Artist**, transformando ideias em projetos interativos, com foco em performance, estética e inovação.
 
 ---
 
