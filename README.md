@@ -15,7 +15,11 @@
 
 ## 🧠 Sobre mim
 
-Profissional em formação com apenas **15 anos**, já com **certificado** pela **SAGA** — escola referência no Brasil com 24 anos de atuação na formação de talentos para o mercado de games, arte digital, design, animação, 3D e efeitos visuais.
+**Game Developer & Digital Artist | SAGA Certified | Unity · Blender · Photoshop**
+
+Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e certificação pela **SAGA** — referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação.
+
+Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Unity**, **Blender** e **Adobe Photoshop**, com foco em performance, estética e usabilidade.
 
 ---
 
