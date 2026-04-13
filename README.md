@@ -70,7 +70,7 @@ Desenvolvi projetos práticos do zero com **Unity**, **Blender** e **Adobe Photo
 **SENAI São Paulo** · `2026 – 2027` · `Em andamento`  
 Santo André, SP · Integrado com **SESI-166**
 
-Ensino médio técnico com foco em **tecnologia e inovação digital**, combinando disciplinas do ensino regular com conteúdos técnicos aplicados — como Desenvolvimento Web, Sistemas Operacionais, Excel, metodologias ágeis e segurança digital — preparando para os desafios da indústria criativa e do mercado de trabalho.
+Ensino médio técnico com foco em **tecnologia e inovação digital**, combinando disciplinas do ensino regular com conteúdos técnicos aplicados — como Desenvolvimento Web, Design Digital, Sistemas Operacionais, Levantamento de Requisitos, Logica de programação, Arquitetura de Rede, Microsoft Excel, Programação JavaScript, metodologias ágeis e segurança digital — preparando para os desafios da indústria criativa e do mercado de trabalho.
 
 </td>
 </tr>
