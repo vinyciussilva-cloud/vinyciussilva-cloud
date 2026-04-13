@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00f7ff,100:7b2fff&height=200&section=header&text=Vinycius%20Lopes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20Digital%20Artist&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Game+Developer+%26+Digital+Artist;Adobe+Photoshop+%C2%B7+Blender+%C2%B7+Unity+%C2%B7+Microsoft+Office+%C2%B7+Excel+%C2%B7+VsCode" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Game+Developer+%26+Digital+Artist;Adobe+Photoshop+%C2%B7+Blender+%C2%B7+Unity+%C2%B7+Excel+%C2%B7+VsCode" alt="Typing SVG" />
 
 <br/>
 
