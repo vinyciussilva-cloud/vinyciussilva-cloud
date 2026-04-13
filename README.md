@@ -29,17 +29,9 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### 🎮 Game Dev & 3D
 <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="48"/>
-
-### 🎨 Design & Arte
 <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="48"/>
-
-### 💻 Dev & Ferramentas
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=dark" height="48"/>
-
-### 📊 Produtividade
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0d0d0d"/>
 
 </div>
