@@ -30,6 +30,7 @@ Com experiência prática no desenvolvimento de jogos, websites e projetos visua
 
 > Desenvolvedor de jogos e artista digital com certificação pela **SAGA** — referência nacional na indústria criativa. Desde a concepção até a entrega final, crio experiências digitais que unem estética, interatividade e lógica de programação.
 
+```
 ---
 
 ## 🛠️ Tech Stack
