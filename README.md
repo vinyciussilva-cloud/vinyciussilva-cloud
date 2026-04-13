@@ -206,4 +206,4 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, cri
   ⭐ Se gostou do perfil, apoie com uma estrela nos repositórios!
 </p>
 
-<img src="C:\img\certificado1_page-0001.jpg" width="400">
+<img src="https://drive.google.com/file/d/1VUkE1iXovh8_9c7SHnNZIbaPLDBKAlx8/view" width="400">
