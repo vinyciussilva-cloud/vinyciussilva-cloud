@@ -99,6 +99,39 @@ Realizei minha formação presencial na SAGA Escola de Arte Digital, no centro d
 
 ---
 
+### 💳 Plataformas de Venda
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cakto-Checkout%20Ativo-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kiwify-Disponível-7B61FF?style=for-the-badge&logo=kiwify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Duzz-Afiliados-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hotmart-Marketplace-F04E23?style=for-the-badge&logo=hotmart&logoColor=white"/>
+</p>
+
+<p align="center">
+  💰 Disponível em múltiplas plataformas digitais.<br>
+  🤝 Afiliados podem promover e ganhar comissões!
+</p>
+
+---
+
+### 🤝 Programa de Afiliados
+
+> 🚀 Ganhe dinheiro divulgando o **Vida Plena**
+
+- 💸 Comissão por venda  
+- 🔗 Link exclusivo  
+- 📈 Renda online  
+- 🔥 Produto com alto potencial  
+
+<p align="center">
+  <a href="https://pay.cakto.com.br/kw2oow7_844545">
+    <img src="https://img.shields.io/badge/Comprar%20Agora-VIDA%20PLENA-00C49A?style=for-the-badge&logo=cart&logoColor=white">
+  </a>
+</p>
+
+---
+
 ## 📚 Certificações
 
 🎓 **SAGA** — Pintura Digital & Composição de Imagens  
