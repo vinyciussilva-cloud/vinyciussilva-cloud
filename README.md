@@ -135,6 +135,7 @@ Realizei minha formação presencial na SAGA Escola de Arte Digital, no centro d
 ## 📚 Certificações
 
 🎓 **SAGA** — Pintura Digital & Composição de Imagens  
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQH_jIa46Upxpw/feedshare-shrink_800/B4DZ2IKge3GUAc-/0/1776105949460?e=1777507200&v=beta&t=q6JR2k_BAcSp-NCcJ_HEQgfrkmaL1g1Ih3MT50eEfFw" width="400">
 
 ---
 
@@ -205,5 +206,3 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, cri
 <p align="center">
   ⭐ Se gostou do perfil, apoie com uma estrela nos repositórios!
 </p>
-
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQH_jIa46Upxpw/feedshare-shrink_800/B4DZ2IKge3GUAc-/0/1776105949460?e=1777507200&v=beta&t=q6JR2k_BAcSp-NCcJ_HEQgfrkmaL1g1Ih3MT50eEfFw" width="400">
