@@ -206,4 +206,4 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, cri
   ⭐ Se gostou do perfil, apoie com uma estrela nos repositórios!
 </p>
 
-<img src="https://www.linkedin.com/posts/%F0%9D%91%BD%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%9A%F0%9D%92%84%F0%9D%92%8A%F0%9D%92%96%F0%9D%92%94-%F0%9D%91%B3%F0%9D%92%90%F0%9D%92%91%F0%9D%92%86%F0%9D%92%94-3b77963bb_meu-certificado-saga-share-7449528292719861760-CtO5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGZ0B7sBPdF8Y3gQ-mlhsZihWSjEwUNjzD0" width="400">
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQH_jIa46Upxpw/feedshare-shrink_800/B4DZ2IKge3GUAc-/0/1776105949460?e=1777507200&v=beta&t=q6JR2k_BAcSp-NCcJ_HEQgfrkmaL1g1Ih3MT50eEfFw" width="400">
