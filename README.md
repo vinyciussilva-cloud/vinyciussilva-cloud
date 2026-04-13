@@ -100,10 +100,8 @@ Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, 
 <summary><b>🔍 Ver certificados</b></summary>
 <br>
 <div align="center">
-<b>Composição de Imagens</b><br>
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQGE3h6Wv82RlA/feedshare-shrink_2048_1536/B4DZ2IQ2RPIEAg-/0/1776107611505?e=1777507200&v=beta&t=juJkO2wRa0oDnBb1Nnu6iYkKhYkoVNcCMmDEtaw134E" width="380"/>
 <br><br>
-<b>Pintura Digital</b><br>
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQHQAhzblGIKSw/feedshare-shrink_800/B4DZ2IQyUaHUAc-/0/1776107595275?e=1777507200&v=beta&t=52thSBZw3OC6rqPx6Rpdr5af5WnJLlJBY5sV4ttLxps" width="380"/>
 </div>
 </details>
