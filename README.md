@@ -75,9 +75,27 @@ Realizei minha formação presencial na SAGA Escola de Arte Digital, no centro d
 
 ## 🔥 Projetos em Destaque
 
+### 📖 Vida Plena — O Guia Definitivo para Transformar sua Saúde em 90 Dias
+
 <p align="center">
-  🚧 Em construção... em breve projetos incríveis por aqui!
+  <img src="https://img.shields.io/badge/E--BOOK-Vida%20Plena-00C49A?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Categoria-Saúde-brightgreen?style=for-the-badge&logo=heart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pagamento%20Único-R%24%2019%2C90-FFD700?style=for-the-badge&logo=pix&logoColor=black"/>
 </p>
+
+> 🧬 **Cansado de falta de energia e estresse?** O *Vida Plena* é um guia completo para transformar sua saúde física e mental em 90 dias, com um método prático e baseado em ciência.
+
+**O que você vai aprender:**
+- 💪 Cuidar do corpo com hábitos simples e eficazes
+- 🧘 Reduzir a ansiedade e o estresse do dia a dia
+- 📅 Criar uma rotina equilibrada e sustentável
+- 📊 Acompanhar seu progresso com um plano claro e eficiente
+
+**Detalhes do produto:**
+
+| 📦 Tipo | 🏷️ Categoria | 💰 Preço |
+|--------|------------|--------|
+| E-Book Digital | Saúde | R$ 19,90 (pagamento único) |
 
 ---
 
