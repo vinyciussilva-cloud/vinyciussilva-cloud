@@ -70,12 +70,7 @@ const vinycius = {
 
 Formação presencial de dois anos na **SAGA** — uma das maiores referências nacionais em cursos técnicos de arte digital, animação 3D, desenvolvimento de jogos e efeitos visuais, com mais de 20 anos de atuação no mercado criativo.
 
-Durante o curso, desenvolvi projetos práticos do zero envolvendo:
-
-- 🎮 **Desenvolvimento de Jogos** com **Unity** — mecânicas, lógica de programação e prototipação de gameplay
-- 🧊 **Modelagem e Animação 3D** com **Blender** — criação de assets, iluminação, rendering e animações
-- 🖌️ **Pintura Digital e Composição Visual** com **Adobe Photoshop** — criação de artes conceituais, tratamento de imagem e design gráfico
-- 🎯 **Projetos integradores** combinando arte e tecnologia, da concepção à entrega final
+Desenvolvi projetos práticos do zero com **Unity**, **Blender** e **Adobe Photoshop**, cobrindo desde mecânicas de gameplay e modelagem 3D até pintura digital e composição visual — sempre da concepção à entrega final.
 
 🏆 **Certificações conquistadas:**
 | Badge | Certificação | Área |
@@ -99,18 +94,7 @@ Durante o curso, desenvolvi projetos práticos do zero envolvendo:
 **SENAI São Paulo** · `2026 – 2027` · `Em andamento`  
 Santo André, SP · Integrado com **SESI 166**
 
-Ensino médio técnico com foco em **tecnologia e inovação digital**, oferecendo uma formação prática e orientada ao mercado de trabalho. O curso combina disciplinas do ensino regular com conteúdos técnicos aplicados, preparando para os desafios da indústria criativa e digital.
-
-**📚 Disciplinas & Competências:**
-
-| Área | Conteúdo |
-|:---|:---|
-| 💻 Desenvolvimento Web | HTML, CSS, JavaScript — criação de sites e interfaces |
-| 🖥️ Sistemas Operacionais | Windows e Linux — configuração, manutenção e uso profissional |
-| 📊 Produtividade Digital | Excel avançado, organização de dados e automação básica |
-| 🤝 Soft Skills | Trabalho em equipe, comunicação, resolução de problemas |
-| 🚀 Inovação & Projetos | Metodologias ágeis, pensamento criativo e prototipação |
-| 🔒 Segurança Digital | Boas práticas em redes, privacidade e proteção de dados |
+Ensino médio técnico com foco em **tecnologia e inovação digital**, combinando disciplinas do ensino regular com conteúdos técnicos aplicados — como Desenvolvimento Web, Sistemas Operacionais, Excel, metodologias ágeis e segurança digital — preparando para os desafios da indústria criativa e do mercado de trabalho.
 
 </td>
 </tr>
@@ -151,19 +135,6 @@ Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, 
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQHQAhzblGIKSw/feedshare-shrink_800/B4DZ2IQyUaHUAc-/0/1776107595275?e=1777507200&v=beta&t=52thSBZw3OC6rqPx6Rpdr5af5WnJLlJBY5sV4ttLxps" width="380"/>
 </div>
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&bg_color=0d0d0d&border_color=00f7ff&title_color=00f7ff&icon_color=7b2fff&text_color=ffffff&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&bg_color=0d0d0d&border_color=00f7ff&title_color=00f7ff&text_color=ffffff" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&background=0d0d0d&border=00f7ff&ring=7b2fff&fire=00f7ff&currStreakLabel=ffffff" />
-
-</div>
 
 ---
 
