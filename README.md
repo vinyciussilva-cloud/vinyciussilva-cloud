@@ -27,9 +27,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="48"/>
-<img src="https://skillicons.dev/icons?i=ps&theme=dark" height="48"/>
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=unity,blender,ps,vscode,html,css,js&theme=dark" height="48"/>
 
 </div>
 
