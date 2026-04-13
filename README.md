@@ -22,12 +22,7 @@
 
 **Game Developer & Digital Artist | SAGA Certified | Unity · Blender · Photoshop**
 
-Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e certificação pela **SAGA** — referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação.
-
-Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Unity**, **Blender** e **Adobe Photoshop**, com foco em performance, estética e usabilidade.
-
- 
-> Desenvolvedor de jogos e artista digital com certificação pela **SAGA** — referência nacional na indústria criativa. Desde a concepção até a entrega final, crio experiências digitais que unem estética, interatividade e lógica de programação.
+> Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e certificação pela **SAGA** — referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação. Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Unity**, **Blender** e **Adobe Photoshop**, com foco em performance, estética e usabilidade.
 
 ---
 
