@@ -66,8 +66,10 @@ Formação completa em arte digital e desenvolvimento de jogos. Projetos prátic
 <td width="50px" align="center">🏫</td>
 <td>
 
-**SENAI São Paulo** · `2026 – 2027`  
-Santo André, SP · Integrado com **SESI 166**
+### 🏫 SENAI São Paulo   `2026 – 2027`  
+📍 Santo André – SP  
+📅 2026 – 2027  
+
 
 Ensino médio com foco em tecnologia — Desenvolvimento Web, Sistemas Operacionais, Inovação Digital e trabalho em equipe.
 
