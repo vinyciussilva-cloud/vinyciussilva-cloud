@@ -206,4 +206,4 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, cri
   ⭐ Se gostou do perfil, apoie com uma estrela nos repositórios!
 </p>
 
-<img src="https://hub.saga.com.br/certificado?chave=B1DBFFAF" width="400">
+<img src="C:\img\certificado1_page-0001.jpg" width="400">
