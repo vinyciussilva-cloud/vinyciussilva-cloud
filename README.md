@@ -18,7 +18,7 @@
 
 ## 🧠 Sobre mim
 
-Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e certificação pela **Escola SAGA** — referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação. Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Unity**, **Blender** e **Adobe Photoshop**, com foco em performance, estética e usabilidade.
+Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e certificação pela **Escola SAGA**, referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação. Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Unity**, **Blender** e **Adobe Photoshop**, com foco em performance, estética e usabilidade.
 
 ---
 
@@ -64,8 +64,8 @@ Formação presencial intensiva de dois anos na SAGA, referência nacional na fo
 <td width="50px" align="center">🏭</td>
 <td>
 
-**SENAI São Paulo** · `2026 – 2027` · `Em andamento`  
-Santo André, SP · Integrado com **SESI-166**
+**Escola SENAI "A. Jacob Lafer"** · `2026 – 2027` · `Em andamento`  
+School Senai A. Jacob Lafer, Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP, 09015-320
 
 Ensino médio técnico com foco em **tecnologia e inovação digital**, combinando disciplinas do ensino regular com conteúdos técnicos aplicados como Desenvolvimento Web, Design Digital, Sistemas Operacionais, Levantamento de Requisitos, Logica de programação, Arquitetura de Rede, Microsoft Excel, Programação JavaScript.
 </td>
@@ -74,8 +74,8 @@ Ensino médio técnico com foco em **tecnologia e inovação digital**, combinan
 <td width="50px" align="center">🏫</td>
 <td>
 
-**CE SESI 166 — Serviço Social da Indústria** · `2016 – 2027`  
-Santo André, SP · Integrado com **SENAI São Paulo**
+**Escola Sesi - CE 166** · `2016 – 2027` · `Em andamento`  
+Sesi Santo André, Praça Dr. Armando Arruda Pereira, 100 - Santa Terezinha, Santo André - SP, 09210-550
 
 Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, cidadania e bem-estar do estudante. Proporciona atividades extracurriculares, apoio pedagógico e formação de valores para atuação profissional e pessoal responsável.
 
