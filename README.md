@@ -18,22 +18,41 @@
 
 ---
 
-## 🧠 Sobre mim
+## ⚡ Sobre mim
 
-**Game Developer & Digital Artist | SAGA Certified | Unity · Blender · Photoshop**
+```javascript
+const vinycius = {
+  nome:       "Vinycius Lopes Monteiro da Silva",
+  idade:       15,
+  localização: "Santo André, São Paulo 🇧🇷",
+  formação:   ["SAGA Escola de Arte Digital", "SENAI + SESI 166"],
+  foco:       ["Game Development", "Digital Art", "3D Modeling"],
+  ferramentas: ["Unity", "Blender", "Adobe Photoshop", "VS Code"],
+  certificações: ["Pintura Digital — SAGA", "Composição de Imagens — SAGA"],
+  missão:     "Unir tecnologia, design e criatividade para criar experiências impactantes"
+};
+```
 
-Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e certificação pela **SAGA** — referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação.
-
-Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Unity**, **Blender** e **Adobe Photoshop**, com foco em performance, estética e usabilidade.
+> Desenvolvedor de jogos e artista digital com certificação pela **SAGA** — referência nacional na indústria criativa. Desde a concepção até a entrega final, crio experiências digitais que unem estética, interatividade e lógica de programação.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+### 🎮 Game Dev & 3D
 <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" height="48"/>
+
+### 🎨 Design & Arte
 <img src="https://skillicons.dev/icons?i=ps&theme=dark" height="48"/>
+
+### 💻 Dev & Ferramentas
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js&theme=dark" height="48"/>
+
+### 📊 Produtividade
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0d0d0d"/>
+
 </div>
 
 ---
@@ -47,11 +66,22 @@ Com experiência prática no desenvolvimento de jogos, websites e projetos visua
 
 **Artista Digital & Game Developer — Aprendiz**  
 [SAGA Escola de Arte Digital](https://www.saga.art.br) · Presencial · Santo André, SP  
-`2 anos` · Prof. Bob (Matheus)
+`2023 – 2025` · `2 anos` · Prof. Bob (Matheus)
 
-Formação completa em arte digital e desenvolvimento de jogos. Projetos práticos integrando criatividade e tecnologia com **Blender**, **Photoshop** e **Unity**.
+Formação presencial de dois anos na **SAGA** — uma das maiores referências nacionais em cursos técnicos de arte digital, animação 3D, desenvolvimento de jogos e efeitos visuais, com mais de 20 anos de atuação no mercado criativo.
 
-🏆 **Certificações:** Pintura Digital · Composição de Imagens
+Durante o curso, desenvolvi projetos práticos do zero envolvendo:
+
+- 🎮 **Desenvolvimento de Jogos** com **Unity** — mecânicas, lógica de programação e prototipação de gameplay
+- 🧊 **Modelagem e Animação 3D** com **Blender** — criação de assets, iluminação, rendering e animações
+- 🖌️ **Pintura Digital e Composição Visual** com **Adobe Photoshop** — criação de artes conceituais, tratamento de imagem e design gráfico
+- 🎯 **Projetos integradores** combinando arte e tecnologia, da concepção à entrega final
+
+🏆 **Certificações conquistadas:**
+| Badge | Certificação | Área |
+|:---:|:---|:---|
+| 🖌️ | Pintura Digital | Arte Digital |
+| 🖼️ | Composição de Imagens | Design Visual |
 
 </td>
 </tr>
@@ -63,21 +93,35 @@ Formação completa em arte digital e desenvolvimento de jogos. Projetos prátic
 
 <table>
 <tr>
+<td width="50px" align="center">🏭</td>
+<td>
+
+**SENAI São Paulo** · `2026 – 2027` · `Em andamento`  
+Santo André, SP · Integrado com **SESI 166**
+
+Ensino médio técnico com foco em **tecnologia e inovação digital**, oferecendo uma formação prática e orientada ao mercado de trabalho. O curso combina disciplinas do ensino regular com conteúdos técnicos aplicados, preparando para os desafios da indústria criativa e digital.
+
+**📚 Disciplinas & Competências:**
+
+| Área | Conteúdo |
+|:---|:---|
+| 💻 Desenvolvimento Web | HTML, CSS, JavaScript — criação de sites e interfaces |
+| 🖥️ Sistemas Operacionais | Windows e Linux — configuração, manutenção e uso profissional |
+| 📊 Produtividade Digital | Excel avançado, organização de dados e automação básica |
+| 🤝 Soft Skills | Trabalho em equipe, comunicação, resolução de problemas |
+| 🚀 Inovação & Projetos | Metodologias ágeis, pensamento criativo e prototipação |
+| 🔒 Segurança Digital | Boas práticas em redes, privacidade e proteção de dados |
+
+</td>
+</tr>
+<tr>
 <td width="50px" align="center">🏫</td>
 <td>
 
-### 🏫 SENAI São Paulo  
-📍 Santo André – SP  
-📅 2026 – 2027  
+**SESI 166 — Serviço Social da Indústria** · `2026 – 2027`  
+Santo André, SP · Integrado com **SENAI São Paulo**
 
-✔ Ensino médio com foco em tecnologia  
-✔ Projetos voltados à inovação e desenvolvimento digital  
-✔ Formação integrada com o **SESI 166**  
-
-📌 Áreas de destaque:
-- Desenvolvimento Web  
-- Sistemas Operacionais  
-- Trabalho em equipe e organização
+Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, cidadania e bem-estar do estudante. Proporciona atividades extracurriculares, apoio pedagógico e formação de valores para atuação profissional e pessoal responsável.
 
 </td>
 </tr>
