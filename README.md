@@ -67,7 +67,7 @@ Formação presencial intensiva de dois anos na SAGA, referência nacional na fo
 **Escola SENAI "A. Jacob Lafer"** · `2026 – 2027` · `Em andamento`  
 School Senai A. Jacob Lafer, Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP, 09015-320
 
-Ensino médio técnico com foco em **tecnologia e inovação digital**, combinando disciplinas do ensino regular com conteúdos técnicos aplicados como Desenvolvimento Web, Design Digital, Sistemas Operacionais, Levantamento de Requisitos, Logica de programação, Arquitetura de Rede, Microsoft Excel, Programação JavaScript.
+Ensino médio técnico com foco em **tecnologia e inovação digital**, combinando disciplinas do ensino regular com conteúdos técnicos aplicados como Desenvolvimento Web, Design Web, Sistemas Operacionais, Levantamento de Requisitos, Logica de programação, Arquitetura de Rede, Microsoft Excel, JavaScript, VisuAlg, Arduino, Draw.io.
 </td>
 </tr>
 <tr>
