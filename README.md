@@ -25,7 +25,7 @@ Com experiência prática no desenvolvimento de jogos, websites e projetos visua
 
 ## 💼 Experiência
 
-### 🎨 Artista Digital & Desenvolvedor de Jogos em Formação — Aprendiz  
+### 🎨 Artista Digital & Desenvolvedor de Jogos — Aprendiz  
 🏫 **SAGA Escola de Arte Digital**  
 📍 Santo André – São Paulo, Brasil · Presencial  
 📅 Duração: 2 anos · Professor: Bob (Matheus)  
