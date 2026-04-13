@@ -113,6 +113,18 @@ Construir uma carreira sólida unindo **tecnologia, design e criatividade**, com
 ## 🌐 Outras Redes Sociais
 
 <p align="center">
+  <a href="https://www.instagram.com/vinycius.art/">
+    <img src="https://img.shields.io/badge/Instagram-@vinycius.art-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://x.com/vinyciusart">
+    <img src="https://img.shields.io/badge/X-@vinyciusart-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/Vinycius-Lopes-3b77963bb">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinycius%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.reddit.com/user/Far_Arachnid7399/">
+    <img src="https://img.shields.io/badge/Reddit-u%2FFar__Arachnid7399-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+  </a>
   <a href="https://www.tiktok.com/@vinycius.art?_r=1&_t=ZS-95LDPPuMAMa">
     <img src="https://img.shields.io/badge/TikTok-@vinycius.art-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
