@@ -25,7 +25,7 @@ Desenvolvedor de jogos e artista digital em formação, com certificação pela 
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=unity,blender,ps,vscode,html,css,js,canva&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=unity,blender,ps,vscode,html,css,js&theme=dark" height="48"/>
 
 </div>
 
