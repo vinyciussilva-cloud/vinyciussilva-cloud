@@ -24,7 +24,7 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender,ps,ae,pr,linux,windows,html,css,js,vscode,git,github,arduino&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,ps,ae,pr,html,css,js,php,vscode,git,linux,windows,arduino&theme=dark" height="50"/> &nbsp;&nbsp;&nbsp;
 
 </div>
 
