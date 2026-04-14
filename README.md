@@ -61,7 +61,7 @@ Formação presencial intensiva de dois anos focada no mercado criativo. Desenvo
 <td>
 
 **Escola SENAI "A. Jacob Lafer"** · `2026 – 2027` · `Em andamento`  
-Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP
+[Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP](https://maps.app.goo.gl/Fb9HDc2Ex5zVYKqw6)
 
 Ensino médio técnico com foco em **Tecnologia e Inovação Digital**.  
 Disciplinas: Desenvolvimento Web · Design Web · JavaScript · Arduino · Excel · Lógica de Programação · Arquitetura de Redes · Sistemas Operacionais · VisuAlg · Draw.io
@@ -73,7 +73,7 @@ Disciplinas: Desenvolvimento Web · Design Web · JavaScript · Arduino · Excel
 <td>
 
 **Escola SESI — CE 166** · `2016 – 2027` · `Em andamento`  
-Praça Dr. Armando Arruda Pereira, 100 - Santa Terezinha, Santo André - SP
+[Praça Dr. Armando Arruda Pereira, 100 - Santa Terezinha, Santo André - SP](https://maps.app.goo.gl/AaJvDQqEVie8jUTq7)
 
 Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, cidadania e bem-estar. Atividades extracurriculares, apoio pedagógico e valores para atuação profissional responsável.
 
