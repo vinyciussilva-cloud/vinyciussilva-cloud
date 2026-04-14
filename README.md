@@ -133,6 +133,7 @@ Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinycius%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/𝑽𝒊𝒏𝒚𝒄𝒊𝒖𝒔-𝑳𝒐𝒑𝒆𝒔-3b77963bb)
 [![Instagram](https://img.shields.io/badge/Instagram-%40vinycius.art-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://www.instagram.com/vinycius.art/)
 [![TikTok](https://img.shields.io/badge/TikTok-%40vinycius.art-ffffff?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0d0d)](https://www.tiktok.com/@vinycius.art)
+[![Facebook](https://img.shields.io/badge/Facebook-Vinycius%20Lopes-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d)](https://www.facebook.com/profile.php?id=61579552468590&sk=directory_personal_details)
 [![X](https://img.shields.io/badge/X-%40vinyciusart-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d)](https://x.com/vinyciusart)
 [![Threads](https://img.shields.io/badge/Threads-%40vinycius.art-ffffff?style=for-the-badge&logo=threads&logoColor=white&labelColor=0d0d0d)](https://www.threads.com/@vinycius.art)
 [![Discord](https://img.shields.io/badge/Discord-snoknzx-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d)](https://discord.com)
