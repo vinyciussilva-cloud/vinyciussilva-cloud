@@ -18,14 +18,14 @@
 
 ## 🧠 Sobre mim
 
-Desenvolvedor de jogos e artista digital em formação, com certificação pela **Escola SAGA**, referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação. Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Adobe Photoshop, Blender, Unity, Microsoft Office, Excel, VsCode**, com foco em performance, estética e usabilidade.
+Desenvolvedor de jogos e artista digital em formação, com certificação pela **Escola SAGA**, referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação. Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Adobe Photoshop, Blender, Unity, Microsoft Office, Excel, VsCode e Canva**, com foco em performance, estética e usabilidade.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=unity,blender,ps,vscode,html,css,js&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=unity,blender,ps,vscode,html,css,js,canva&theme=dark" height="48"/>
 
 </div>
 
