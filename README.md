@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mim
 
-Desenvolvedor de jogos e artista digital em formação, certificado pela **Escola SAGA**, referência nacional na indústria criativa. Trabalho em todo o pipeline de produção digital: da **concepção ao produto final**, unindo design, lógica de programação e arte. Domínio prático de **Unity, Blender, Adobe Photoshop, HTML/CSS/JS, Excel e VSCode**.
+Desenvolvedor de jogos e artista digital em formação, certificado pela **Escola SAGA**, referência nacional na indústria criativa. Trabalho em todo o pipeline de produção digital: da **concepção ao produto final**, unindo design, lógica de programação e arte. Domínio prático de **Unity, Blender, Adobe Photoshop, Adobe After Effects, Adobe Premier, HTML/CSS/JS, Excel e VSCode**.
 
 ---
 
@@ -24,7 +24,7 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela **Escol
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender,ps,ae,html,css,js,vscode,git,github,arduino&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,ps,ae,pr,html,css,js,vscode,git,github,arduino&theme=dark" height="50"/>
 
 </div>
 
@@ -41,7 +41,7 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela **Escol
 [Escola SAGA — Arte, Design, Animação e Games](https://www.saga.art.br) · `2022 – 2024` · `Concluído`  
 [Santo André, Rua Luís Pinto Fláquer, 519 - Centro, Santo André - SP](https://maps.app.goo.gl/UiQ9mTTDpxhu7rVQ9)
 
-Formação presencial intensiva de dois anos focada no mercado criativo. Desenvolvimento de projetos completos com **Unity, Blender, Adobe Photoshop, Adobe After Effects e Unreal Engine**, atuando em todo o pipeline: concepção de mecânicas de gameplay, modelagem 3D, pintura digital e composição visual, sempre com foco em qualidade técnica, edição de videos, Blueprints Visual Scripting e entrega profissional.
+Formação presencial intensiva de dois anos focada no mercado criativo. Desenvolvimento de projetos completos com **Unity, Blender, Adobe Photoshop, Adobe After Effects, Adobe Premier e Unreal Engine**, atuando em todo o pipeline: concepção de mecânicas de gameplay, modelagem 3D, pintura digital e composição visual, sempre com foco em qualidade técnica, edição de videos, Blueprints Visual Scripting e entrega profissional.
 
 **Conquistas:**
 - 🏆 Certificação em **Pintura Digital**
