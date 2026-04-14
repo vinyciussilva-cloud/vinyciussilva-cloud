@@ -112,7 +112,7 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 
 ---
 
-## 📬 Contato
+## 📬 Contato & Redes Sociais
 
 <div align="center">
 <a href="mailto:vinycius.silva@edu.senai.br">
@@ -124,15 +124,6 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 <a href="https://t.me/VinyciusXZ">
   <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d"/>
 </a>
-
-</div>
-
----
-
-## 🌐 Redes Sociais
-
-<div align="center">
-
 <a href="https://www.instagram.com/vinycius.art/">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d"/>
 </a>
