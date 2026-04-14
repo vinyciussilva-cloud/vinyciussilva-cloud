@@ -64,7 +64,7 @@ ormação presencial intensiva de dois anos voltada ao mercado criativo, com foc
 [Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP](https://maps.app.goo.gl/Fb9HDc2Ex5zVYKqw6)
 
 Ensino médio técnico com foco em **Tecnologia e Inovação Digital**.  
-Disciplinas: Desenvolvimento Web · Design Web · JavaScript · Arduino · Excel · Lógica de Programação · Arquitetura de Redes · Sistemas Operacionais · VisuAlg · Draw.io
+Disciplinas: Desenvolvimento Web · Design Web · JavaScript · Arduino · Excel · Lógica de Programação · Arquitetura de Redes · Sistemas Operacionais · VisuAlg · Draw.io · Linux · Windows 
 
 </td>
 </tr>
