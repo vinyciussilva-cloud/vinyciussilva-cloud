@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mim
 
-Desenvolvedor de jogos e artista digital em formação, certificado pela **Escola SAGA**, referência nacional na indústria criativa. Trabalho em todo o pipeline de produção digital: da **concepção ao produto final**, unindo design, lógica de programação e arte. Domínio prático de **Unity, Blender, Adobe Photoshop, Adobe After Effects, Adobe Premier Pro, HTML/CSS/JS, Excel e VSCode**.
+Desenvolvedor de jogos e artista digital em formação, certificado pela Escola SAGA, referência nacional na indústria criativa. Atuo de forma integrada em todo o pipeline de produção digital, da concepção ao produto final, combinando design, lógica de programação e arte. Possuo domínio prático em **Unity, Blender, Adobe Photoshop, Adobe After Effects, Adobe Premiere Pro, HTML, CSS, JavaScript, Excel, VS Code**, além de experiência com sistemas operacionais **Linux** e **Windows**.
 
 ---
 
@@ -115,7 +115,6 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 ## 📬 Contato
 
 <div align="center">
-
 <a href="mailto:vinycius.silva@edu.senai.br">
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
 </a>
