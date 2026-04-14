@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- BANNER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00f7ff,100:7b2fff&height=200&section=header&text=Vinycius%20Lopes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20Digital%20Artist&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00f7ff,100:7b2fff&height=220&section=header&text=Vinycius%20Lopes&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Game%20Developer%20%7C%20Digital%20Artist&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Game+Developer+%26+Digital+Artist;Adobe+Photoshop+%C2%B7+Blender+%C2%B7+Unity+%C2%B7+Excel+%C2%B7+VsCode" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=🎮+Game+Developer+%26+Digital+Artist;🎨+Unity+·+Blender+·+Adobe+Photoshop;💻+HTML+·+CSS+·+JavaScript+·+VsCode;🚀+Escola+SAGA+·+SENAI+·+Aprendiz+Criativo" alt="Typing SVG" />
 
 <br/>
 
-<!-- BADGES DE STATUS -->
-<img src="https://img.shields.io/badge/Idade-15%20anos-7b2fff?style=flat-square&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Status-Disponível-00f7ff?style=flat-square&labelColor=0d0d0d&logo=statuspage&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/Idade-15%20anos-7b2fff?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Status-Disponível%20para%20Oportunidades-00f7ff?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00f7ff"/>
+<img src="https://img.shields.io/badge/Localização-Santo%20André%2C%20SP-ff6b6b?style=for-the-badge&labelColor=0d0d0d&logo=googlemaps&logoColor=ff6b6b"/>
 
 </div>
 
@@ -18,14 +16,15 @@
 
 ## 🧠 Sobre mim
 
-Desenvolvedor de jogos e artista digital em formação, com certificação pela **Escola SAGA**, referência nacional na indústria criativa. Especializado na criação de experiências digitais que unem design, interatividade e lógica de programação. Com experiência prática no desenvolvimento de jogos, websites e projetos visuais, atuo desde a concepção até a entrega final. Domínio de ferramentas como **Adobe Photoshop, Blender, Unity, Microsoft Office, Excel, VsCode e Canva**, com foco em performance, estética e usabilidade.
+Desenvolvedor de jogos e artista digital em formação, certificado pela **Escola SAGA**, referência nacional na indústria criativa. Trabalho em todo o pipeline de produção digital: da **concepção ao produto final**, unindo design, lógica de programação e arte. Domínio prático de **Unity, Blender, Adobe Photoshop, HTML/CSS/JS, Excel e VSCode**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=unity,blender,ps,vscode,html,css,js&theme=dark" height="48"/>
+
+<img src="https://skillicons.dev/icons?i=unity,blender,ps,figma,html,css,js,vscode,git,github,arduino&theme=dark" height="50"/>
 
 </div>
 
@@ -35,21 +34,18 @@ Desenvolvedor de jogos e artista digital em formação, com certificação pela 
 
 <table>
 <tr>
-<td width="50px" align="center">🎨</td>
+<td width="60px" align="center">🎨</td>
 <td>
 
 **Artista Digital & Game Developer — Aprendiz**  
+[Escola SAGA — Arte, Design, Animação e Games](https://www.saga.art.br)  
+Santo André, SP · `2022 - 2024`
 
-[Escola SAGA | Arte, Design, Animação e Games](https://www.saga.art.br)   
-Santo André, R. Luís Pinto Fláquer, 519 - Centro, Santo André - SP, 09010-090
+Formação presencial intensiva de dois anos focada no mercado criativo. Desenvolvimento de projetos completos com **Unity, Blender e Adobe Photoshop**, atuando em todo o pipeline: concepção de mecânicas de gameplay, modelagem 3D, pintura digital e composição visual, sempre com foco em qualidade técnica e entrega profissional.
 
-Formação presencial intensiva de dois anos na SAGA, referência nacional na formação de profissionais para o mercado criativo em arte digital, animação 3D, desenvolvimento de jogos e efeitos visuais. Ao longo do programa, desenvolvi projetos completos do zero, utilizando **Unity**, **Blender** e **Adobe Photoshop**, atuando em todo o pipeline de produção: da concepção e design de mecânicas de gameplay à modelagem 3D, pintura digital e composição visual, sempre com foco em qualidade técnica, consistência estética e entrega final profissional.
-
-🏆 **Certificações conquistadas:**
-| Certificação | Área |
-|:---|:---|
-| Pintura Digital | Arte Digital |
-|Composição de Imagens | Design Visual |
+**Conquistas:**
+- 🏆 Certificação em **Pintura Digital**
+- 🏆 Certificação em **Composição de Imagens**
 
 </td>
 </tr>
@@ -61,23 +57,25 @@ Formação presencial intensiva de dois anos na SAGA, referência nacional na fo
 
 <table>
 <tr>
-<td width="50px" align="center">🏭</td>
+<td width="60px" align="center">🏭</td>
 <td>
 
 **Escola SENAI "A. Jacob Lafer"** · `2026 – 2027` · `Em andamento`  
-School Senai A. Jacob Lafer, Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP, 09015-320
+Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP
 
-Ensino médio técnico com foco em **tecnologia e inovação digital**, combinando disciplinas do ensino regular com conteúdos técnicos aplicados como Desenvolvimento Web, Design Web, Sistemas Operacionais, Levantamento de Requisitos, Logica de programação, Arquitetura de Rede, Microsoft Excel, JavaScript, VisuAlg, Arduino, Draw.io.
+Ensino médio técnico com foco em **Tecnologia e Inovação Digital**.  
+Disciplinas: Desenvolvimento Web · Design Web · JavaScript · Arduino · Excel · Lógica de Programação · Arquitetura de Redes · Sistemas Operacionais · VisuAlg · Draw.io
+
 </td>
 </tr>
 <tr>
-<td width="50px" align="center">🏫</td>
+<td width="60px" align="center">🏫</td>
 <td>
 
-**Escola Sesi - CE 166** · `2016 – 2027` · `Em andamento`  
-Sesi Santo André, Praça Dr. Armando Arruda Pereira, 100 - Santa Terezinha, Santo André - SP, 09210-550
+**Escola SESI — CE 166** · `2016 – 2027` · `Em andamento`  
+Praça Dr. Armando Arruda Pereira, 100 - Santa Terezinha, Santo André - SP
 
-Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, cidadania e bem-estar do estudante. Proporciona atividades extracurriculares, apoio pedagógico e formação de valores para atuação profissional e pessoal responsável.
+Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, cidadania e bem-estar. Atividades extracurriculares, apoio pedagógico e valores para atuação profissional responsável.
 
 </td>
 </tr>
@@ -89,7 +87,7 @@ Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, 
 
 <div align="center">
 
-| Certificação | Instituição | Área |
+| 🏅 Certificação | 🏛️ Instituição | 🗂️ Área |
 |:---:|:---:|:---:|
 | 🖌️ Pintura Digital | Escola SAGA | Arte Digital |
 | 🖼️ Composição de Imagens | Escola SAGA | Design Visual |
@@ -100,9 +98,9 @@ Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, 
 <summary><b>🔍 Ver certificados</b></summary>
 <br>
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQGE3h6Wv82RlA/feedshare-shrink_2048_1536/B4DZ2IQ2RPIEAg-/0/1776107611505?e=1777507200&v=beta&t=juJkO2wRa0oDnBb1Nnu6iYkKhYkoVNcCMmDEtaw134E" width="380"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQGE3h6Wv82RlA/feedshare-shrink_2048_1536/B4DZ2IQ2RPIEAg-/0/1776107611505?e=1777507200&v=beta&t=juJkO2wRa0oDnBb1Nnu6iYkKhYkoVNcCMmDEtaw134E" width="380" style="border-radius: 8px;"/>
 <br><br>
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQHQAhzblGIKSw/feedshare-shrink_800/B4DZ2IQyUaHUAc-/0/1776107595275?e=1777507200&v=beta&t=52thSBZw3OC6rqPx6Rpdr5af5WnJLlJBY5sV4ttLxps" width="380"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQHQAhzblGIKSw/feedshare-shrink_800/B4DZ2IQyUaHUAc-/0/1776107595275?e=1777507200&v=beta&t=52thSBZw3OC6rqPx6Rpdr5af5WnJLlJBY5sV4ttLxps" width="380" style="border-radius: 8px;"/>
 </div>
 </details>
 
@@ -110,7 +108,7 @@ Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, 
 
 ## 🎯 Objetivo
 
-> Construir uma carreira de alto nível na interseção entre tecnologia, design e criatividade, consolidando expertise no desenvolvimento de jogos e experiências digitais imersivas, escaláveis e orientadas a performance, com excelência técnica, estética refinada e inovação contínua, visando impacto global, relevância no mercado e contribuição significativa para a indústria criativa e tecnológica.
+> *Construir uma carreira de alto nível na interseção entre **tecnologia, design e criatividade** — consolidando expertise no desenvolvimento de jogos e experiências digitais imersivas, escaláveis e orientadas a performance, com excelência técnica, estética refinada e inovação contínua, visando impacto global e contribuição significativa para a indústria criativa.*
 
 ---
 
@@ -133,9 +131,8 @@ Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinycius%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/𝑽𝒊𝒏𝒚𝒄𝒊𝒖𝒔-𝑳𝒐𝒑𝒆𝒔-3b77963bb)
 [![Instagram](https://img.shields.io/badge/Instagram-%40vinycius.art-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://www.instagram.com/vinycius.art/)
 [![TikTok](https://img.shields.io/badge/TikTok-%40vinycius.art-ffffff?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0d0d)](https://www.tiktok.com/@vinycius.art)
-[![Facebook](https://img.shields.io/badge/Facebook-Vinycius%20Lopes-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d)](https://www.facebook.com/profile.php?id=61579552468590&sk=directory_personal_details)
 [![X](https://img.shields.io/badge/X-%40vinyciusart-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d)](https://x.com/vinyciusart)
-[![Threads](https://img.shields.io/badge/Threads-%40vinycius.art-ffffff?style=for-the-badge&logo=threads&logoColor=white&labelColor=0d0d0d)](https://www.threads.com/@vinycius.art)
+[![Facebook](https://img.shields.io/badge/Facebook-Vinycius%20Lopes-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d)](https://www.facebook.com/profile.php?id=61579552468590&sk=directory_personal_details)
 [![Discord](https://img.shields.io/badge/Discord-snoknzx-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d)](https://discord.com)
 [![Reddit](https://img.shields.io/badge/Reddit-u%2FFar__Arachnid7399-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0d0d0d)](https://www.reddit.com/user/Far_Arachnid7399/)
 [![VSCO](https://img.shields.io/badge/VSCO-vinycius--art-000000?style=for-the-badge&logo=vsco&logoColor=white&labelColor=0d0d0d)](https://vsco.co/vinycius-art/gallery)
@@ -146,10 +143,12 @@ Formação complementar integrada ao SENAI, com foco no desenvolvimento humano, 
 
 <div align="center">
 
+<br/>
+
 ✝ *"Tudo posso naquele que me fortalece."* — **Filipenses 4:13**
 
-⭐ Se gostou, deixe uma estrela nos repositórios!
+⭐ **Gostou do perfil? Deixa uma estrela nos repositórios!**
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00f7ff,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00f7ff,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
