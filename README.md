@@ -40,8 +40,8 @@ Desenvolvedor de jogos e artista digital em formação, com apenas **15 anos** e
 
 **Artista Digital & Game Developer — Aprendiz**  
 
-[SAGA Escola de Arte Digital](https://www.saga.art.br) · Presencial · Santo André, SP  
-`2022 – 2024` · `2 anos` · Prof. Bob (Matheus)
+[Escola SAGA | Arte, Design, Animação e Games](https://www.saga.art.br)   
+Santo André, R. Luís Pinto Fláquer, 519 - Centro, Santo André - SP, 09010-090
 
 Formação presencial intensiva de dois anos na SAGA, referência nacional na formação de profissionais para o mercado criativo em arte digital, animação 3D, desenvolvimento de jogos e efeitos visuais. Ao longo do programa, desenvolvi projetos completos do zero, utilizando **Unity**, **Blender** e **Adobe Photoshop**, atuando em todo o pipeline de produção: da concepção e design de mecânicas de gameplay à modelagem 3D, pintura digital e composição visual, sempre com foco em qualidade técnica, consistência estética e entrega final profissional.
 
