@@ -116,9 +116,15 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-vinycius.silva%40edu.senai.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:vinycius.silva@edu.senai.br)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2011%2096701--1872-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d)](https://wa.me/5511967011872)
-[![Telegram](https://img.shields.io/badge/Telegram-%40VinyciusXZ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d)](https://t.me/VinyciusXZ)
+<a href="mailto:vinycius.silva@edu.senai.br">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://wa.me/5511967011872">
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://t.me/VinyciusXZ">
+  <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d"/>
+</a>
 
 </div>
 
@@ -128,14 +134,27 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinycius%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/𝑽𝒊𝒏𝒚𝒄𝒊𝒖𝒔-𝑳𝒐𝒑𝒆𝒔-3b77963bb)
-[![Instagram](https://img.shields.io/badge/Instagram-%40vinycius.art-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://www.instagram.com/vinycius.art/)
-[![TikTok](https://img.shields.io/badge/TikTok-%40vinycius.art-ffffff?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0d0d)](https://www.tiktok.com/@vinycius.art)
-[![X](https://img.shields.io/badge/X-%40vinyciusart-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d)](https://x.com/vinyciusart)
-[![Facebook](https://img.shields.io/badge/Facebook-Vinycius%20Lopes-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d)](https://www.facebook.com/profile.php?id=61579552468590&sk=directory_personal_details)
-[![Discord](https://img.shields.io/badge/Discord-snoknzx-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d)](https://discord.com)
-[![Reddit](https://img.shields.io/badge/Reddit-u%2FFar__Arachnid7399-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0d0d0d)](https://www.reddit.com/user/Far_Arachnid7399/)
-[![VSCO](https://img.shields.io/badge/VSCO-vinycius--art-000000?style=for-the-badge&logo=vsco&logoColor=white&labelColor=0d0d0d)](https://vsco.co/vinycius-art/gallery)
+<a href="https://www.instagram.com/vinycius.art/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://www.tiktok.com/@vinycius.art">
+  <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://x.com/vinyciusart">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=61579552468590">
+  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://www.reddit.com/user/Far_Arachnid7399/">
+  <img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://vsco.co/vinycius-art/gallery">
+  <img src="https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=vsco&logoColor=white&labelColor=0d0d0d"/>
+</a>
 
 </div>
 
