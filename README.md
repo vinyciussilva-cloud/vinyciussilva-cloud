@@ -87,10 +87,10 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 
 <div align="center">
 
-| 🏅 Certificação | 🏛️ Instituição | 🗂️ Área |
-|:---:|:---:|:---:|
-| 🖌️ Pintura Digital | Escola SAGA | Arte Digital |
-| 🖼️ Composição de Imagens | Escola SAGA | Design Visual |
+| 🏅 Certificação | 🏛️ Instituição | 🎨 Habilidades |🗂️ Área |
+|:---:|:---:|:---:|:---:|
+| 🖌️ Pintura Digital | Escola SAGA | Photoshop | Arte Digital |
+| 🖼️ Composição de Imagens | Escola SAGA | Photoshop | Design Visual |
 
 </div>
 
