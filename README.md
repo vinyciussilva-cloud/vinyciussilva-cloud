@@ -111,7 +111,7 @@ Disciplinas: Desenvolvimento Web · Design Web · JavaScript · Arduino · Micro
 <td>
 
 **Escola SESI — CE 166** · `2016 – 2027` · `Em andamento`  
-[Praça Dr. Armando Arruda Pereira, 100 - Santa Terezinha, Santo André - SP](https://maps.app.goo.gl/AaJvDQqEVie8jUTq7)
+[Praça Dr. Armando Arruda Pereira, 100 - Santa Terezinha, Santo André - SP, 09210-550](https://maps.app.goo.gl/AaJvDQqEVie8jUTq7)
 
 Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, cidadania e bem-estar. Atividades extracurriculares, apoio pedagógico e valores para atuação profissional responsável.
 
