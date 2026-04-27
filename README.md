@@ -136,7 +136,7 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 
 ## 🎯 Objetivo Profissional
 
-> *"Construir uma carreira de alto nível na interseção entre **tecnologia, design e criatividade** — desenvolvendo jogos e experiências digitais imersivas, escaláveis e orientadas a performance, com excelência técnica, estética refinada e inovação contínua, visando impacto global e contribuição significativa para a indústria criativa."*
+*"Construir uma carreira de alto nível na interseção entre **tecnologia, design e criatividade** — desenvolvendo jogos e experiências digitais imersivas, escaláveis e orientadas a performance, com excelência técnica, estética refinada e inovação contínua, visando impacto global e contribuição significativa para a indústria criativa."*
 
 ---
 
