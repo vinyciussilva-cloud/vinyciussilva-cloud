@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/-Santo%20André%2C%20SP-ff6b6b?style=for-the-badge&labelColor=0d0d0d"/>
 &nbsp;
 <a href="https://vinycius-lopes-app.base44.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20Acessar%20Portfólio-00f7ff?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/🌐%20PORTFÓLIO%20OFICIAL-00f7ff?style=for-the-badge&labelColor=0d0d0d"/>
 </a>
 </div>
 
