@@ -22,13 +22,46 @@
 
 Desenvolvedor de jogos e artista digital em formação, certificado pela Escola SAGA, referência nacional na indústria criativa. Atuo de forma integrada em todo o pipeline de produção digital, da concepção ao produto final, combinando design, lógica de programação e arte. Possuo domínio prático em **Unity, Blender, Adobe Photoshop, Adobe After Effects, Adobe Premiere Pro, HTML, CSS, JavaScript, Excel, VS Code**, além de experiência com sistemas operacionais **Linux** e **Windows**.
 
+</table>
+
 ---
 
-## 🛠️ Stack & Ferramentas
+## 🛠️ Stack Completa
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender,ps,ae,pr,html,css,js,php,vscode,git,linux,windows,arduino&theme=dark" height="50"/> &nbsp;&nbsp;&nbsp;
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🎮 Game Dev & 3D**
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark" height="46"/>
+
+</td>
+<td align="center" width="25%">
+
+**🎨 Design & Audiovisual**
+
+<img src="https://skillicons.dev/icons?i=ps,ae,pr&theme=dark" height="46"/>
+
+</td>
+<td align="center" width="25%">
+
+**💻 Dev Web**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" height="46"/>
+
+</td>
+<td align="center" width="25%">
+
+**⚙️ Ambiente & DevTools**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,linux,arduino&theme=dark" height="46"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
