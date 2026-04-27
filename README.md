@@ -8,8 +8,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VinyciusXZ&color=00f7ff&style=for-the-badge&label=VISITAS+AO+PERFIL&abbreviated=true)
 &nbsp;
-<img src="https://img.shields.io/badge/15%20anos-Aprendiz%20Criativo-7b2fff?style=for-the-badge&labelColor=0d0d0d"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Status-Aberto%20a%20Oportunidades-00f7ff?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00f7ff"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📍-Santo%20André%2C%20SP-ff6b6b?style=for-the-badge&labelColor=0d0d0d"/>
@@ -74,7 +72,7 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 <td width="60px" align="center">🎨</td>
 <td>
 
-**Artista Digital & Game Developer — Aprendiz**  
+**Artista Digital & Game Developer — Aprendiz**   
 [Escola SAGA — Arte, Design, Animação e Games](https://www.saga.art.br) · `2022 – 2024` · `Concluído`  
 [R. Luís Pinto Fláquer, 519 - Centro, Santo André - SP, 09010-090](https://maps.app.goo.gl/UiQ9mTTDpxhu7rVQ9)
 
@@ -182,8 +180,7 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 
 <br/>
 
-✝ *"Tudo posso naquele que me fortalece."* — **Filipenses 4:13**
-
+✝ *"Tudo posso naquele que me fortalece."* — **Filipenses 4:13**   
 ⭐ **Gostou do perfil? Deixa uma estrela nos repositórios!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00f7ff,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
