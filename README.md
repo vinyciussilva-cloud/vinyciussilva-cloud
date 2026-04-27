@@ -99,7 +99,7 @@ Formação presencial intensiva de dois anos voltada ao mercado criativo. Desenv
 <td>
 
 **Escola SENAI "A. Jacob Lafer"** · `2026 – 2027` · `Em andamento`  
-[Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP](https://maps.app.goo.gl/Fb9HDc2Ex5zVYKqw6)
+[Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP, 09015-320](https://maps.app.goo.gl/Fb9HDc2Ex5zVYKqw6)
 
 Ensino médio técnico com foco em **Tecnologia e Inovação Digital**.  
 Disciplinas: Desenvolvimento Web · Design Web · JavaScript · Arduino · Microsoft Excel · Lógica de Programação · Arquitetura de Redes · Sistemas Operacionais · VisuAlg · Draw.io · Linux · Windows 
