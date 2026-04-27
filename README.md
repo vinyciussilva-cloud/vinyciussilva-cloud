@@ -76,7 +76,7 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 
 **Artista Digital & Game Developer — Aprendiz**  
 [Escola SAGA — Arte, Design, Animação e Games](https://www.saga.art.br) · `2022 – 2024` · `Concluído`  
-[Santo André, Rua Luís Pinto Fláquer, 519 - Centro, Santo André - SP](https://maps.app.goo.gl/UiQ9mTTDpxhu7rVQ9)
+[R. Luís Pinto Fláquer, 519 - Centro, Santo André - SP, 09010-090](https://maps.app.goo.gl/UiQ9mTTDpxhu7rVQ9)
 
 Formação presencial intensiva de dois anos voltada ao mercado criativo. Desenvolvi projetos completos utilizando **Unity, Blender, Adobe Photoshop, After Effects, Premiere Pro e Unreal Engine**, cobrindo todo o pipeline: mecânicas de gameplay, modelagem 3D, pintura digital, composição visual, edição de vídeo e Visual Scripting com Blueprints.
 
