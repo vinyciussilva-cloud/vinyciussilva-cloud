@@ -4,14 +4,17 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1400&color=00F7FF&center=true&vCenter=true&width=800&lines=🎮+Desenvolvedor+de+Jogos+%26+Artista+Digital;🎨+Unity+·+Unreal+Engine+·+Blender+·+Photoshop;💻+HTML+·+CSS+·+JavaScript+·+Arduino;🚀+Certificado+pela+Escola+SAGA+·+SENAI+Lafer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&pause=1400&color=00F7FF&center=true&vCenter=true&width=820&lines=🎮+Desenvolvendo+jogos+que+contam+histórias;🎨+Arte+digital+com+propósito+e+identidade;💻+Código+limpo%2C+criatividade+sem+limites;🚀+Certificado+SAGA+·+Técnico+SENAI+·+15+anos" alt="Typing SVG" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=VinyciusXZ&color=00f7ff&style=for-the-badge&label=VISITAS+AO+PERFIL&abbreviated=true)
+&nbsp;
 <img src="https://img.shields.io/badge/15%20anos-Aprendiz%20Criativo-7b2fff?style=for-the-badge&labelColor=0d0d0d"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Aberto%20a%20Oportunidades-00f7ff?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00f7ff"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📍-Santo%20André%2C%20SP-ff6b6b?style=for-the-badge&labelColor=0d0d0d"/>
 </div>
+
 
 ---
 
@@ -21,7 +24,7 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack & Ferramentas
 
 <div align="center">
 
@@ -89,18 +92,18 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 
 <div align="center">
 
-| 🏅 Certificação | 🏛️ Instituição | 🎨 Ferramentas |🗂️ Área |
-|:---:|:---:|:---:|:---:|
-| 🖌️ Pintura Digital | Escola SAGA | Adobe Photoshop | Arte Digital |
-| 🖼️ Composição de Imagens | Escola SAGA | Adobe Photoshop | Design Visual |
+| 🏅 Certificação | 🏛️ Instituição | 🛠️ Ferramenta | 🗂️ Área | 📅 Ano |
+|:---:|:---:|:---:|:---:|:---:|
+| Pintura Digital | Escola SAGA | Adobe Photoshop | Arte Digital | 2024 |
+| Composição de Imagens | Escola SAGA | Adobe Photoshop | Design Visual | 2024 |
 
 </div>
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo Profissional
 
-> *Construir uma carreira de alto nível na interseção entre **tecnologia, design e criatividade**, consolidando expertise no desenvolvimento de jogos e experiências digitais imersivas, escaláveis e orientadas a performance, com excelência técnica, estética refinada e inovação contínua, visando impacto global e contribuição significativa para a indústria criativa.*
+> *"Construir uma carreira de alto nível na interseção entre **tecnologia, design e criatividade** — desenvolvendo jogos e experiências digitais imersivas, escaláveis e orientadas a performance, com excelência técnica, estética refinada e inovação contínua, visando impacto global e contribuição significativa para a indústria criativa."*
 
 ---
 
