@@ -2,14 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00f7ff,100:7b2fff&height=220&section=header&text=Vinycius%20Lopes&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Game%20Developer%20%7C%20Digital%20Artist&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=🎮+Game+Developer+%26+Digital+Artist;🎨+Unity+·+Blender+·+Adobe+Photoshop;💻+HTML+·+CSS+·+JavaScript+·+VsCode;🚀+Escola+SAGA+·+SENAI+·+Aprendiz+Criativo" alt="Typing SVG" />
-
 <br/>
 
-<img src="https://img.shields.io/badge/Idade-15%20anos-7b2fff?style=for-the-badge&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/Status-Disponível%20para%20Oportunidades-00f7ff?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Localização-Santo%20André%2C%20SP-ff6b6b?style=for-the-badge&labelColor=0d0d0d&logo=googlemaps&logoColor=ff6b6b"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1400&color=00F7FF&center=true&vCenter=true&width=800&lines=🎮+Desenvolvedor+de+Jogos+%26+Artista+Digital;🎨+Unity+·+Unreal+Engine+·+Blender+·+Photoshop;💻+HTML+·+CSS+·+JavaScript+·+Arduino;🚀+Certificado+pela+Escola+SAGA+·+SENAI+Lafer" alt="Typing SVG" />
 
+<img src="https://img.shields.io/badge/15%20anos-Aprendiz%20Criativo-7b2fff?style=for-the-badge&labelColor=0d0d0d"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Aberto%20a%20Oportunidades-00f7ff?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00f7ff"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍-Santo%20André%2C%20SP-ff6b6b?style=for-the-badge&labelColor=0d0d0d"/>
 </div>
 
 ---
@@ -41,11 +42,12 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 [Escola SAGA — Arte, Design, Animação e Games](https://www.saga.art.br) · `2022 – 2024` · `Concluído`  
 [Santo André, Rua Luís Pinto Fláquer, 519 - Centro, Santo André - SP](https://maps.app.goo.gl/UiQ9mTTDpxhu7rVQ9)
 
-ormação presencial intensiva de dois anos voltada ao mercado criativo, com foco no desenvolvimento de projetos completos e profissionais. Ao longo do curso, foram utilizadas ferramentas como **Unity, Blender, Adobe Photoshop, Adobe After Effects, Adobe Premiere Pro e Unreal Engine**, abrangendo todo o pipeline de produção: desde a concepção de mecânicas de gameplay até modelagem 3D, pintura digital e composição visual. A formação também inclui edição de vídeo e uso de Blueprints (Visual Scripting), sempre priorizando alta qualidade técnica e entregas com padrão profissional.
+Formação presencial intensiva de dois anos voltada ao mercado criativo. Desenvolvi projetos completos utilizando **Unity, Blender, Adobe Photoshop, After Effects, Premiere Pro e Unreal Engine**, cobrindo todo o pipeline: mecânicas de gameplay, modelagem 3D, pintura digital, composição visual, edição de vídeo e Visual Scripting com Blueprints.
 
-**Conquistas:**
-- 🏆 Certificação em **Pintura Digital**
-- 🏆 Certificação em **Composição de Imagens**
+**Conquistas**
+- 🏆 Certificação em **Pintura Digital** — Adobe Photoshop
+- 🏆 Certificação em **Composição de Imagens** — Adobe Photoshop
+- 🔁 Atuação em projetos end-to-end com padrão profissional de entrega
 
 </td>
 </tr>
@@ -87,28 +89,18 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 
 <div align="center">
 
-| 🏅 Certificação | 🏛️ Instituição | 🎨 Habilidades |🗂️ Área |
+| 🏅 Certificação | 🏛️ Instituição | 🎨 Ferramentas |🗂️ Área |
 |:---:|:---:|:---:|:---:|
-| 🖌️ Pintura Digital | Escola SAGA | Photoshop | Arte Digital |
-| 🖼️ Composição de Imagens | Escola SAGA | Photoshop | Design Visual |
+| 🖌️ Pintura Digital | Escola SAGA | Adobe Photoshop | Arte Digital |
+| 🖼️ Composição de Imagens | Escola SAGA | Adobe Photoshop | Design Visual |
 
 </div>
-
-<details>
-<summary><b>🔍 Ver certificados</b></summary>
-<br>
-<div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQGE3h6Wv82RlA/feedshare-shrink_2048_1536/B4DZ2IQ2RPIEAg-/0/1776107611505?e=1777507200&v=beta&t=juJkO2wRa0oDnBb1Nnu6iYkKhYkoVNcCMmDEtaw134E" width="380" style="border-radius: 8px;"/>
-<br><br>
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQHQAhzblGIKSw/feedshare-shrink_800/B4DZ2IQyUaHUAc-/0/1776107595275?e=1777507200&v=beta&t=52thSBZw3OC6rqPx6Rpdr5af5WnJLlJBY5sV4ttLxps" width="380" style="border-radius: 8px;"/>
-</div>
-</details>
 
 ---
 
 ## 🎯 Objetivo
 
-> *Construir uma carreira de alto nível na interseção entre **tecnologia, design e criatividade** — consolidando expertise no desenvolvimento de jogos e experiências digitais imersivas, escaláveis e orientadas a performance, com excelência técnica, estética refinada e inovação contínua, visando impacto global e contribuição significativa para a indústria criativa.*
+> *Construir uma carreira de alto nível na interseção entre **tecnologia, design e criatividade**, consolidando expertise no desenvolvimento de jogos e experiências digitais imersivas, escaláveis e orientadas a performance, com excelência técnica, estética refinada e inovação contínua, visando impacto global e contribuição significativa para a indústria criativa.*
 
 ---
 
