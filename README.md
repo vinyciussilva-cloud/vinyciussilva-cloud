@@ -19,7 +19,7 @@
 
 ## 👾 Sobre mim
 
-Desenvolvedor de jogos e artista digital em formação, certificado pela Escola SAGA. Atuo no pipeline completo de produção digital, unindo design, programação e arte. Tenho experiência com **Unity, Blender e ferramentas Adobe** (Photoshop, After Effects e Premiere), além de desenvolvimento com **HTML, CSS e JavaScript**. Utilizo também **Excel, Visual Studio Code, Draw.io, Flowgorithm, GitHub e VisuAlg** no desenvolvimento de projetos. Possuo familiaridade com **Linux e Windows** e estou em constante evolução na área.
+Desenvolvedor de jogos e artista digital em formação, certificado pela Escola SAGA. Atuo no pipeline completo de produção digital, unindo design, programação e arte. Tenho experiência com **Unity, Blender e ferramentas Adobe** (Photoshop, After Effects e Premiere), além de desenvolvimento com **HTML e JavaScript**. Utilizo também **Excel, Visual Studio Code, Draw.io, Flowgorithm, GitHub e VisuAlg** no desenvolvimento de projetos. Possuo familiaridade com **Linux e Windows** e estou em constante evolução na área.
 
 </table>
 
@@ -49,7 +49,7 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 
 **💻 Dev Web & Freelancer**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,js,php&theme=dark" height="40"/>
 
 </td>
 <td align="center" width="15%">
