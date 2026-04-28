@@ -101,7 +101,7 @@ Formação presencial intensiva de dois anos no mercado criativo. Desenvolviment
 **Escola SENAI "A. Jacob Lafer"** · `2026 – 2027` · `Em andamento`  
 [Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP, 09015-320](https://maps.app.goo.gl/Fb9HDc2Ex5zVYKqw6)
 
-Formação presencial intensiva de dois anos focada no mercado criativo. Desenvolvimento de projetos completos com Unity, Blender e Adobe Photoshop, atuando em todo o pipeline: concepção de mecânicas de gameplay, modelagem 3D, pintura digital e composição visual, sempre com foco em qualidade técnica e entrega profissional.
+Ensino médio técnico em tecnologia e inovação digital, com formação orientada ao desenvolvimento de competências técnicas e profissionais alinhadas às demandas do mercado de T.I.
 
 **Ferramentas Utilizadas**: Arduino · Draw.io · Excel · Flowgorithm · GitHub · JavaScript · PHP · VisuAlg · Visual Studio Code
 
