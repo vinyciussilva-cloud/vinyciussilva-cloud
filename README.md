@@ -31,32 +31,48 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="15%">
 
-**🎮 Game Dev & 3D**
+**🎮 Game Dev & Modelagem 3D**
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark" height="46"/>
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark" height="40"/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="15%">
 
 **🎨 Design & Audiovisual**
 
-<img src="https://skillicons.dev/icons?i=ps,ae,pr&theme=dark" height="46"/>
+<img src="https://skillicons.dev/icons?i=ps,ae,pr&theme=dark" height="40"/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="15%">
 
-**💻 Dev Web**
+**💻 Dev Web & Freelancer**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" height="46"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" height="40"/>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="15%">
 
-**⚙️ Ambiente & DevTools**
+**⚙️Ferramentas de Desenvolvedor**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,linux,arduino&theme=dark" height="46"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="40"/>
+
+</td>
+<td align="center" width="15%">
+
+**🖥️ Ambiente de Trabalho**
+
+<img src="https://skillicons.dev/icons?i=windows,linux,arduino&theme=dark" height="40"/>
+
+</td>
+<td align="center" width="20%">
+
+**🗂️ Microsoft 365**
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel" height="46"/>
+<img src="https://img.icons8.com/color/48/microsoft-word-2019.png" title="Word" height="46"/>
+<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" title="PowerPoint" height="46"/>
 
 </td>
 </tr>
