@@ -116,7 +116,7 @@ Formação presencial intensiva de dois anos no mercado criativo. Desenvolviment
 **Escola SENAI "A. Jacob Lafer"** · `2026 – 2027` · `Em andamento`  
 [Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP, 09015-320](https://maps.app.goo.gl/Fb9HDc2Ex5zVYKqw6)
 
-Ensino médio técnico em tecnologia e inovação digital, com formação orientada ao desenvolvimento de competências técnicas e profissionais alinhadas às demandas do mercado de T.I.
+Ensino médio técnico em Tecnologia e Inovação Digital, com formação voltada ao desenvolvimento de competências técnicas e profissionais alinhadas às exigências do mercado de Tecnologia da Informação, incluindo raciocínio lógico, resolução de problemas e aplicação prática de soluções digitais.
 
 **Ferramentas Utilizadas**: Arduino · Draw.io · Excel · Flowgorithm · GitHub · JavaScript · PHP · VisuAlg · Visual Studio Code
 
@@ -129,7 +129,7 @@ Ensino médio técnico em tecnologia e inovação digital, com formação orient
 **Escola SESI — CE 166** · `2016 – 2027` · `Em andamento`  
 [Praça Dr. Armando Arruda Pereira, 100 - Santa Terezinha, Santo André - SP, 09210-550](https://maps.app.goo.gl/AaJvDQqEVie8jUTq7)
 
-Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, cidadania e bem-estar. Atividades extracurriculares, apoio pedagógico e valores para atuação profissional responsável.
+Cursando o Ensino Médio pelo SESI, com trajetória contínua na instituição desde 2016 e conclusão prevista para 2027. Formação voltada ao desenvolvimento humano, cidadania e bem-estar, com participação em atividades extracurriculares, apoio pedagógico e preparação para uma atuação responsável na sociedade.
 
 </td>
 </tr>
