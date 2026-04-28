@@ -78,7 +78,7 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 
 Formação presencial intensiva de dois anos no mercado criativo. Desenvolvimento de projetos completos cobrindo todo o pipeline: design de mecânicas, modelagem 3D, pintura digital, composição visual, edição de vídeo e Visual Scripting com Blueprints.
 
-Ferramentas utilizadas: Unity · Unreal Engine · Blender · Photoshop · After Effects · Premiere Pro
+**Ferramentas Utilizadas**: Unity · Unreal Engine · Blender · Photoshop · After Effects · Premiere Pro
 
 **Conquistas**
 - 🏆 Certificação em **Pintura Digital** — Adobe Photoshop
@@ -101,8 +101,9 @@ Ferramentas utilizadas: Unity · Unreal Engine · Blender · Photoshop · After 
 **Escola SENAI "A. Jacob Lafer"** · `2026 – 2027` · `Em andamento`  
 [Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP, 09015-320](https://maps.app.goo.gl/Fb9HDc2Ex5zVYKqw6)
 
-Ensino médio técnico com foco em **Tecnologia e Inovação Digital**.  
-Disciplinas: Desenvolvimento Web · Design Web · JavaScript · Arduino · Microsoft Excel · Lógica de Programação · Arquitetura de Redes · Sistemas Operacionais · VisuAlg · Draw.io · Linux · Windows 
+Formação presencial intensiva de dois anos focada no mercado criativo. Desenvolvimento de projetos completos com Unity, Blender e Adobe Photoshop, atuando em todo o pipeline: concepção de mecânicas de gameplay, modelagem 3D, pintura digital e composição visual, sempre com foco em qualidade técnica e entrega profissional.
+
+**Ferramentas Utilizadas**: Arduino · Draw.io · Excel · Flowgorithm · GitHub · JavaScript · PHP · VisuAlg · Visual Studio Code
 
 </td>
 </tr>
