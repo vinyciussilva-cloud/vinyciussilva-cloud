@@ -73,7 +73,7 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 <td width="60px" align="center">🎨</td>
 <td>
 
-[Escola SAGA — Arte, Design, Animação e Games](https://www.saga.art.br) · `2022 – 2024` · `Concluído`  
+**Escola SAGA — Arte, Design, Animação e Games** · `2022 – 2024` · `Concluído`  
 [R. Luís Pinto Fláquer, 519 - Centro, Santo André - SP, 09010-090](https://maps.app.goo.gl/UiQ9mTTDpxhu7rVQ9)
 
 Formação presencial intensiva de dois anos no mercado criativo. Desenvolvimento de projetos completos cobrindo todo o pipeline: design de mecânicas, modelagem 3D, pintura digital, composição visual, edição de vídeo e Visual Scripting com Blueprints.
