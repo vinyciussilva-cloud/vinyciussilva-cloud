@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00f7ff,100:7b2fff&height=220&section=header&text=Vinycius%20Lopes&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Game%20Developer%20%7C%20Digital%20Artist&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&pause=1400&color=00F7FF&center=true&vCenter=true&width=820&lines=🎮+Desenvolvendo+jogos+que+contam+histórias;🎨+Arte+digital+com+propósito+e+identidade;💻+Código+limpo%2C+criatividade+sem+limites;🚀+Certificado+SAGA+·+Técnico+SENAI+·+15+anos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&pause=1400&color=00F7FF&center=true&vCenter=true&width=820&lines=🎮+Desenvolvendo+jogos+e+artes+visuais;🎨+Arte+digital+com+propósito+e+identidade;💻+Código+limpo%2C+criatividade+sem+limites;🚀+Certificado+SAGA+·+Técnico+SENAI+·+15+anos" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VinyciusXZ&color=00f7ff&style=for-the-badge&label=VISITAS+AO+PERFIL&abbreviated=true)
 &nbsp;
@@ -16,7 +14,6 @@
   <img src="https://img.shields.io/badge/🌐%20PORTFÓLIO%20OFICIAL-00f7ff?style=for-the-badge&labelColor=0d0d0d"/>
 </a>
 </div>
-
 
 ---
 
