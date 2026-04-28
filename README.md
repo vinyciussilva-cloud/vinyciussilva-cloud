@@ -99,7 +99,6 @@ Formação presencial intensiva de dois anos no mercado criativo. Desenvolviment
 **Conquistas:**
 - 🏆 Certificação em **Pintura Digital** — Adobe Photoshop
 - 🏆 Certificação em **Composição de Imagens** — Adobe Photoshop
-- 🔁 Atuação em projetos end-to-end com padrão profissional de entrega
 
 </td>
 </tr>
