@@ -159,7 +159,8 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 ## 📬 Contato & Redes Sociais
 
 <div align="center">
-<a href="mailto:vinycius.silva@edu.senai.br">
+
+  <a href="mailto:vinycius.silva@edu.senai.br">
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
 </a>
 <a href="https://wa.me/5511967011872">
@@ -168,26 +169,29 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 <a href="https://t.me/VinyciusXZ">
   <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d"/>
 </a>
-<a href="https://www.instagram.com/vinycius.art/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d"/>
-</a>
-<a href="https://www.tiktok.com/@vinycius.art">
-  <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0d0d"/>
-</a>
-<a href="https://x.com/vinyciusart">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d"/>
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d"/>
 </a>
 <a href="https://www.facebook.com/profile.php?id=61579552468590">
   <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d"/>
 </a>
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d"/>
+<a href="https://www.instagram.com/vinycius.art/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d"/>
 </a>
 <a href="https://www.reddit.com/user/Far_Arachnid7399/">
   <img src="https://img.shields.io/badge/REDDIT-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=0d0d0d"/>
 </a>
+<a href="https://www.threads.com/@vinycius.art">
+  <img src="https://img.shields.io/badge/THREADS-000000?style=for-the-badge&logo=threads&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://www.tiktok.com/@vinycius.art">
+  <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0d0d"/>
+</a>
 <a href="https://vsco.co/vinycius-art/gallery">
   <img src="https://img.shields.io/badge/VSCO-000000?style=for-the-badge&logo=vsco&logoColor=white&labelColor=0d0d0d"/>
+</a>
+<a href="https://x.com/vinyciusart">
+  <img src="https://img.shields.io/badge/X%20%2F%20TWITTER-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d"/>
 </a>
 
 </div>
