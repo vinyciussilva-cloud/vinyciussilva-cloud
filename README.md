@@ -8,10 +8,10 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Aberto%20a%20Oportunidades-00f7ff?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00f7ff"/>
 &nbsp;
-<img src="https://img.shields.io/badge/-Santo%20André%2C%20SP-ff6b6b?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/-Santo%20André%2C%20SP-2196F3?style=for-the-badge&labelColor=0d0d0d"/>
 &nbsp;
 <a href="https://vinycius-lopes-app.base44.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20PORTFÓLIO%20OFICIAL-00f7ff?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/🌐%20PORTFÓLIO%20OFICIAL-5E35B1?style=for-the-badge&labelColor=0d0d0d"/>
 </a>
 </div>
 
