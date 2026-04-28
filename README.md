@@ -19,7 +19,7 @@
 
 ## 👾 Sobre mim
 
-Desenvolvedor de jogos e artista digital em formação, certificado pela Escola SAGA, referência nacional na indústria criativa. Atuo de forma integrada em todo o pipeline de produção digital, da concepção ao produto final, combinando design, lógica de programação e arte. Possuo domínio prático em **Unity, Blender, Adobe Photoshop, Adobe After Effects, Adobe Premiere Pro, HTML, CSS, JavaScript, Excel, VS Code**, além de experiência com sistemas operacionais **Linux** e **Windows**.
+Desenvolvedor de jogos e artista digital em formação, certificado pela Escola SAGA. Atuo no pipeline completo de produção digital, unindo design, programação e arte. Tenho experiência com **Unity, Blender e ferramentas Adobe** (Photoshop, After Effects e Premiere), além de desenvolvimento com **HTML, CSS e JavaScript**. Utilizo também **Excel, Visual Studio Code, Draw.io, Flowgorithm, GitHub e VisuAlg** no desenvolvimento de projetos. Possuo familiaridade com **Linux e Windows** e estou em constante evolução na área.
 
 </table>
 
