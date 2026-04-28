@@ -33,21 +33,21 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 <tr>
 <td align="center" width="15%">
 
-**🎮 Game Dev & Modelagem 3D**
+**🎮 Game Dev**
 
 <img src="https://skillicons.dev/icons?i=unity,unreal,blender&theme=dark" height="40"/>
 
 </td>
 <td align="center" width="15%">
 
-**🎨 Design & Audiovisual**
+**🎨 Design**
 
 <img src="https://skillicons.dev/icons?i=ps,ae,pr&theme=dark" height="40"/>
 
 </td>
 <td align="center" width="15%">
 
-**💻 Dev Web & Freelancer**
+**💻 Dev Web**
 
 <img src="https://skillicons.dev/icons?i=html,js,php&theme=dark" height="40"/>
 
@@ -61,7 +61,7 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 </td>
 <td align="center" width="15%">
 
-**🖥️ Ambiente de Trabalho**
+**🖥️ Ambiente**
 
 <img src="https://skillicons.dev/icons?i=windows,linux,arduino&theme=dark" height="40"/>
 
