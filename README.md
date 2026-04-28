@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00f7ff,100:7b2fff&height=220&section=header&text=Vinycius%20Lopes&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Game%20Developer%20%7C%20Digital%20Artist&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&pause=1400&color=00F7FF&center=true&vCenter=true&width=820&lines=🎮+Desenvolvendo+jogos+e+artes+visuais;🎨+Arte+digital+com+propósito+e+identidade;💻+Código+limpo%2C+criatividade+sem+limites;🚀+Certificado+SAGA+·+Técnico+SENAI+·+15+anos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&pause=1400&color=00F7FF&center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Digital+Artist+%7C+Creative+Technologist;Desenvolvendo+jogos+e+experiências+digitais+de+impacto;Unity+·+Unreal+·+Blender+·+JavaScript+·+Adobe+Suite" alt="Role"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VinyciusXZ&color=00f7ff&style=for-the-badge&label=VISITAS+AO+PERFIL&abbreviated=true)
 &nbsp;
@@ -77,7 +77,9 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 [Escola SAGA — Arte, Design, Animação e Games](https://www.saga.art.br) · `2022 – 2024` · `Concluído`  
 [R. Luís Pinto Fláquer, 519 - Centro, Santo André - SP, 09010-090](https://maps.app.goo.gl/UiQ9mTTDpxhu7rVQ9)
 
-Formação presencial intensiva de dois anos voltada ao mercado criativo. Desenvolvi projetos completos utilizando **Unity, Blender, Adobe Photoshop, After Effects, Premiere Pro e Unreal Engine**, cobrindo todo o pipeline: mecânicas de gameplay, modelagem 3D, pintura digital, composição visual, edição de vídeo e Visual Scripting com Blueprints.
+Formação presencial intensiva de dois anos no mercado criativo. Desenvolvimento de projetos completos cobrindo todo o pipeline: design de mecânicas, modelagem 3D, pintura digital, composição visual, edição de vídeo e Visual Scripting com Blueprints.
+
+Ferramentas utilizadas: Unity · Unreal Engine · Blender · Photoshop · After Effects · Premiere Pro
 
 **Conquistas**
 - 🏆 Certificação em **Pintura Digital** — Adobe Photoshop
@@ -182,7 +184,6 @@ Formação complementar integrada ao SENAI, com foco em desenvolvimento humano, 
 <br/>
 
 ✝ *"Tudo posso naquele que me fortalece."* — **Filipenses 4:13**   
-⭐ **Gostou do perfil? Deixa uma estrela nos repositórios!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00f7ff,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
 
