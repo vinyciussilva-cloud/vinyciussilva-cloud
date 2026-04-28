@@ -54,7 +54,7 @@ Desenvolvedor de jogos e artista digital em formação, certificado pela Escola 
 </td>
 <td align="center" width="15%">
 
-**⚙️Ferramentas de Desenvolvedor**
+**⚙️DevTools**
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="40"/>
 
