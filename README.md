@@ -141,7 +141,7 @@ Cursando o Ensino Médio pelo SESI, com trajetória contínua na instituição d
 
 <div align="center">
 
-| 🏅 Certificação | 🏛️ Instituição | 🛠️ Ferramenta | 🗂️ Área | 📅 Ano |
+| 🏅 Certificação | 🏛️ Instituição | 🛠️ Ferramenta | 🗂️ Área | ✅ Concluído |
 |:---:|:---:|:---:|:---:|:---:|
 | Pintura Digital | Escola SAGA | Adobe Photoshop | Arte Digital | 2024 |
 | Composição de Imagens | Escola SAGA | Adobe Photoshop | Design Visual | 2024 |
