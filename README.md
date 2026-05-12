@@ -116,7 +116,7 @@ Formação presencial intensiva de dois anos no mercado criativo. Desenvolviment
 **Escola SENAI 118 - "A. Jacob Lafer"** · `2026 – 2027` · `Em andamento`  
 [Av. Santos Dumont, 300 - Ipiranguinha, Santo André - SP, 09015-320](https://maps.app.goo.gl/Fb9HDc2Ex5zVYKqw6)
 
-Ensino médio técnico em Tecnologia e Inovação Digital, com formação voltada ao desenvolvimento de competências técnicas e profissionais alinhadas às exigências do mercado de Tecnologia da Informação, incluindo raciocínio lógico, resolução de problemas e aplicação prática de soluções digitais.
+Cursando Técnico em Desenvolvimento de Sistemas, com formação voltada ao raciocínio lógico, resolução de problemas e aplicação prática de soluções digitais. O curso abrange programação, desenvolvimento web, banco de dados e boas práticas de tecnologia da informação, preparando para as exigências reais do mercado de T.I.
 
 **Ferramentas Utilizadas**: Arduino · Draw.io · Excel · Flowgorithm · GitHub · JavaScript · PHP · VisuAlg · Visual Studio Code
 
