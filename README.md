@@ -129,7 +129,7 @@ Cursando Técnico em Desenvolvimento de Sistemas, com formação voltada ao raci
 **Escola SESI — CE 166** · `2016 – 2027` · `Em andamento`  
 [Praça Dr. Armando Arruda Pereira, 100 - Santa Terezinha, Santo André - SP, 09210-550](https://maps.app.goo.gl/AaJvDQqEVie8jUTq7)
 
-Cursando o Ensino Médio pelo SESI, com trajetória contínua na instituição desde 2016 e conclusão prevista para 2027. Formação voltada ao desenvolvimento humano, cidadania e bem-estar, com participação em atividades extracurriculares, apoio pedagógico e preparação para uma atuação responsável na sociedade.
+Cursando o Ensino Médio no SESI 166, com trajetória contínua na instituição desde 2016 e conclusão prevista para 2027. Formação voltada ao desenvolvimento humano, cidadania e bem-estar, com participação em atividades extracurriculares, apoio pedagógico e preparação para uma atuação responsável na sociedade.
 
 </td>
 </tr>
