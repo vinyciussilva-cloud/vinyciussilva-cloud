@@ -36,22 +36,6 @@ Atuo no pipeline completo: concept art, modelagem 3D, mecânicas de jogo e desen
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinyciusXZ/VinyciusXZ/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinyciusXZ/VinyciusXZ/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/VinyciusXZ/VinyciusXZ/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-> ⚙️ Para ativar a cobra, crie `.github/workflows/snake.yml` — veja [platane/snk](https://github.com/platane/snk).
-
----
-
 ## 🛠️ Stack Completa
 
 <div align="center">
