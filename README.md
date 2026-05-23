@@ -132,7 +132,7 @@ Formação presencial intensiva no maior polo de games e arte digital do Brasil.
 <td width="60px" align="center">🏭</td>
 <td>
 
-**Técnico em Desenvolvimento de Sistemas — SENAi São Paulo
+**Técnico em Desenvolvimento de Sistemas** — SENAi São Paulo
 `jan/2026 – dez/2027` · Em andamento
 
 Formação técnica em desenvolvimento de software, lógica de programação, banco de dados relacional, engenharia de software e fundamentos de redes. Projetos entregues via GitHub com uso de ferramentas profissionais no cotidiano acadêmico.
