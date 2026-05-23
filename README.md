@@ -205,9 +205,6 @@ Busco oportunidades em **Game Development**, **Arte Digital** ou **Desenvolvimen
 <a href="https://wa.me/5511967011872"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d"/></a>
 <a href="https://t.me/VinyciusXZ"><img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0d0d"/></a>
 <a href="https://discord.com"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d"/></a>
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/vinycius-lopes-3b77963bb/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a>
 <a href="https://www.instagram.com/vinycius.art/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d"/></a>
 <a href="https://www.tiktok.com/@vinycius.art"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0d0d"/></a>
