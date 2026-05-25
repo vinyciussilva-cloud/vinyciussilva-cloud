@@ -160,7 +160,7 @@ Cursando o Ensino Médio no SESI 166, com trajetória contínua na instituição
 
 <div align="center">
 
-| 🏅 Certificação | 🏛️ Instituição | 🛠️ Ferramenta / Área | ✅ Emitida |
+| 🏅 Certificação | 🏛️ Instituição | 🛠️ Área | ✅ Emitida |
 |:---|:---:|:---:|:---:|
 | Pintura Digital | Escola SAGA | Adobe Photoshop | jun/2024 |
 | Composição de Imagens | Escola SAGA | Adobe Photoshop | jun/2024 |
@@ -172,6 +172,8 @@ Cursando o Ensino Médio no SESI 166, com trajetória contínua na instituição
 | Fundamentos e Ações da Economia Circular | SENAI São Paulo | Sustentabilidade | mai/2026 |
 | Ciclos de Retorno Para Economia Circular | SENAI São Paulo | Sustentabilidade | mai/2026 |
 | Competência Transversal — Segurança no Trabalho | SENAI São Paulo | Segurança | mai/2026 |
+| Desvendando a Descarbonização | SENAI São Paulo | Descarbonização · Mudanças Climáticas | mai/2026 |
+| Acelerando a Transição para a Economia Circular | SENAI São Paulo | Economia Circular · Sustentabilidade | mai/2026 |
 
 </div>
 
