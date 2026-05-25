@@ -226,8 +226,6 @@ Busco oportunidades em **Game Development**, **Arte Digital** ou **Desenvolvimen
 
 ✝ *"Tudo posso naquele que me fortalece."* — **Filipenses 4:13**
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00f7ff,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
